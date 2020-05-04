@@ -146,7 +146,9 @@ After his death his private papers came to the IISH.
 
 Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
 
-- The photo collection of Nettlau
+
+<details><summary>The photo collection of Nettlau</summary>
+<p>
 
     Max Nettlau himself death(1944):
 
@@ -297,6 +299,9 @@ Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
     ![Nettlaus%20ashes%20transcoding/Photo._1931.jpeg](Nettlaus%20ashes%20transcoding/Photo._1931.jpeg)
 
     ![Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg](Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg)
+
+</p>
+</details>
 
 # Afterlife
 
