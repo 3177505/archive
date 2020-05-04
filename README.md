@@ -1143,6 +1143,8 @@ Processing code, textEdit
 ### Results
 
 - Used text:
+<details>
+  <summary>Click to expand!</summary>
 
     P. S. — Since writing the above I have found an early French Anarchist pamphlet, from which I translate the following:
 
@@ -1181,6 +1183,7 @@ Processing code, textEdit
     [http://www.iisg.nl/collections/nettlau/](http://www.iisg.nl/collections/nettlau/)
 
     anarchist manifesto
+
 
     An Anarchist Manifesto
 
@@ -1301,6 +1304,7 @@ Processing code, textEdit
     Study our principles, our movement, and if they convince you join us in our struggle against authority and exploitation, for freedom and happiness for all.
 
     London, May 1st, 1895.
+</details>    
 
 - Text examples:
 
