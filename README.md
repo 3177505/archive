@@ -4,30 +4,30 @@
 
 ### Table of Contents
 
-1. [Artefact](about:blank#Artefact)
-    1. [Metadata](about:blank##Metadata)
-2. [Research](about:blank#Research)
-    1. [Nettlau's identity](about:blank##Nettlau'sidentity)
-        1. [Max](about:blank##Nettlau'sidentity)
-        2. [Bakunin](about:blank###Bakunin)
-        3. [The siskin](about:blank###The siskin)
-        4. [Timeline](about:blank###Timeline)
-    2. [IISG = Nettlau](about:blank##IISG=Nettlau)
-    3. [Afterlife](about:blank##Afterlife)
-    4. [Human ashes](about:blank##Humanashes)
-        1. [Chemical composition](about:blank###Chemicalcomposition)
-3. [Transcoding](about:blank#Transcoding)
-    1. [No. 1](about:blank#Transcoding-no-1) Images as fragments
-    2. [No. 2](about:blank#Transcoding-no-2) Words hidden in images
-    3. [No. 3](about:blank#Transcoding-no-3) Chemical encoding
-    4. [No. 4](about:blank#Transcoding-no-4) Dialog from our meeting
-    5. [No. 5](about:blank#Transcoding-no-5) Videos as a memorial
-    6. [Transcoding Tool](about:blank#Transcoding-tool) No. 1
-    7. [Transcoding Tool](about:blank#Transcoding-tool) No. 2
-4. [Reflection](about:blank#Reflection)
-5. [Outcome](about:blank#Outcome)
-6. [Conclusion](about:blank#Conclusion)
-7. [Bibliography](about:blank#Bibliography)
+1. [Artefact](#Artefact)
+    1. [Metadata](##Metadata)
+2. [Research](#Research)
+    1. [Nettlau's identity](##Nettlau'sidentity)
+        1. [Max](##Nettlau'sidentity)
+        2. [Bakunin](###Bakunin)
+        3. [The siskin](###Thesiskin)
+        4. [Timeline](###Timeline)
+    2. [IISG = Nettlau](##IISG=Nettlau)
+    3. [Afterlife](##Afterlife)
+    4. [Human ashes](##Humanashes)
+        1. [Chemical composition](###Chemicalcomposition)
+3. [Transcoding](#Transcoding)
+    1. [No. 1](#Transcoding-no-1) Images as fragments
+    2. [No. 2](#Transcoding-no-2) Words hidden in images
+    3. [No. 3](#Transcoding-no-3) Chemical encoding
+    4. [No. 4](#Transcoding-no-4) Dialog from our meeting
+    5. [No. 5](#Transcoding-no-5) Videos as a memorial
+    6. [Transcoding Tool](#Transcoding-tool) No. 1
+    7. [Transcoding Tool](#Transcoding-tool) No. 2
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography)
 
 # Artefact
 
