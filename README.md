@@ -372,8 +372,7 @@ Combining and sorting his photographs to images as a symbol of ashes to scatter 
 
 Adopting image manipulation through Processing using the collected photographs. Specifically using two codes, the first one to apply pixel sorting which visualizes the scattering and touches more the mood of something disappearing, going away.
 
-<details><summary>Pixel sorting code:</summary>
-<p>
+- Pixel sorting code:
 
     ```jsx
     /*
@@ -722,13 +721,9 @@ Adopting image manipulation through Processing using the collected photographs. 
     }
     ```
 
-    </p>
-    </details>
-
 The second code randomise the selection and combines two already sorted images.
 
-<details><summary>Blending data code:</summary>
-<p>
+- Blending data code:
 
     ```jsx
     java.io.File folder;
@@ -814,8 +809,6 @@ The second code randomise the selection and combines two already sorted images.
       }
     }
     ```
-    </p>
-    </details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
