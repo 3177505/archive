@@ -37,7 +37,18 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 
 ## Metadata
 
-[Untitled](https://www.notion.so/54f95c407a224c6d8b13d16edf2026b9)
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG BG K21/171A](https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)
+| **Physical Description** | Metal; 30 cm.
+| **Type** | Object
+| **Note** | Urn containing Nettlau's ashes.
+| **Medium** | Visual Documents
+| **Materials** | Metal
+| **Subject, person** | Nettlau, Max
+| **Date** | 70s
+| **Collector** | Nettlau, Max
+
 
 # Research
 
