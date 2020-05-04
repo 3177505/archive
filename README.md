@@ -1387,6 +1387,7 @@ To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fer
 
     ![Nettlaus%20ashes%20transcoding/280811599.jpg](Nettlaus%20ashes%20transcoding/280811599.jpg)
 </details>
+
 ## Transcoding No.4
 
 ### Dialog from our meeting
@@ -1643,7 +1644,7 @@ Using Pixel sorting and blending data code.
 
 <details>
   <summary>Click to expand!</summary>
-  
+
     ![Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png](Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png)
 
     [jeffThompson/PixelSorting](https://github.com/jeffThompson/PixelSorting)
