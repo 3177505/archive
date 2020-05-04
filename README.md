@@ -725,7 +725,7 @@ Adopting image manipulation through Processing using the collected photographs. 
 
 The second code randomise the selection and combines two already sorted images.
 
-<details><summary>- Blending data code:</summary>
+<details><summary>Blending data code:</summary>
 
     ```jsx
     java.io.File folder;
@@ -811,7 +811,7 @@ The second code randomise the selection and combines two already sorted images.
       }
     }
     ```
-    
+
 </details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
