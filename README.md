@@ -1330,12 +1330,15 @@ Processing code, textEdit
     kêƒª.@ì˝áh∂˜ÚËdBˇÿ)Îë
 
 - Visual examples:
-
+<details>
+  <summary>Click to expand!</summary>
     ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg)
 
     ![Nettlaus%20ashes%20transcoding/1%201.jpg](Nettlaus%20ashes%20transcoding/1%201.jpg)
 
     ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg)
+
+</details>    
 
 ## Transcoding No.3
 
@@ -1356,7 +1359,8 @@ Adobe package + if using the images from first sorting then also Processing
 To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fertilizer, sea salt, clay, aluminum foil, magnesium pill, drop of blood, inside of batteries, dry paint, rat poison (poison in general), polish for metal*
 
 - First sorting examples:
-
+<details>
+  <summary>Click to expand!</summary>
     ![Nettlaus%20ashes%20transcoding/264571487.jpg](Nettlaus%20ashes%20transcoding/264571487.jpg)
 
     ![Nettlaus%20ashes%20transcoding/25510068.jpg](Nettlaus%20ashes%20transcoding/25510068.jpg)
@@ -1382,7 +1386,7 @@ To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fer
     ![Nettlaus%20ashes%20transcoding/217851195.jpg](Nettlaus%20ashes%20transcoding/217851195.jpg)
 
     ![Nettlaus%20ashes%20transcoding/280811599.jpg](Nettlaus%20ashes%20transcoding/280811599.jpg)
-
+</details>
 ## Transcoding No.4
 
 ### Dialog from our meeting
@@ -1419,12 +1423,14 @@ Premiere pro
 
 - Videos sketches:
 
+<details>
+  <summary>Click to expand!</summary>
     [Nettlaus%20ashes%20transcoding/j_1.mp4](Nettlaus%20ashes%20transcoding/j_1.mp4)
 
     [Nettlaus%20ashes%20transcoding/j.mp4](Nettlaus%20ashes%20transcoding/j.mp4)
 
     [Nettlaus%20ashes%20transcoding/N.mp4](Nettlaus%20ashes%20transcoding/N.mp4)
-
+</details>
 ## Transcoding Tool No.1
 
 ### Website invisible library
@@ -1444,6 +1450,7 @@ Using Blob: A Binary Large OBject a collection of binary data stored as a single
 HOW TO MAKE IT RANDOM AND CONNECT IT WITH THE DATABASE ASK ON MONDAY
 
 - Code to download:
+
 
     ```jsx
     function download(filename, text) {
@@ -1634,6 +1641,9 @@ Using Pixel sorting and blending data code.
 
 - Research sorting:
 
+<details>
+  <summary>Click to expand!</summary>
+  
     ![Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png](Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png)
 
     [jeffThompson/PixelSorting](https://github.com/jeffThompson/PixelSorting)
@@ -2767,6 +2777,7 @@ The second code randomise the selection and combines two already sorted images.
       }
     }
     ```
+</details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
