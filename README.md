@@ -1,6 +1,6 @@
 # Nettlaus ashes transcoding
 
-![Nettlaus%20ashes%20transcoding/Portrait_0.jpg](Nettlaus%20ashes%20transcoding/Portrait_0.jpg)
+![Nettlaus potrait](/Nettlaus%20ashes%20transcoding/Portrait_0.jpg)
 
 ### Table of Contents
 
@@ -150,6 +150,8 @@ Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
 <details><summary>The photo collection of Nettlau</summary>
 
     Max Nettlau himself death(1944):
+
+
 
     ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg)
 
