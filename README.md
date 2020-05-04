@@ -824,6 +824,9 @@ This is just few separated examples, the final in outcomes.
 
 - Sorting as process
 
+<details>
+  <summary>Click to expand!</summary>
+
     ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_0.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_0.png)
 
     ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_1.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_1.png)
@@ -914,7 +917,12 @@ This is just few separated examples, the final in outcomes.
 
     ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png)
 
+</details>    
+
 - Two layers (without sorting)
+
+<details>
+  <summary>Click to expand!</summary>
 
     ![Nettlaus%20ashes%20transcoding/0002.jpg](Nettlaus%20ashes%20transcoding/0002.jpg)
 
@@ -1020,7 +1028,12 @@ This is just few separated examples, the final in outcomes.
 
     ![Nettlaus%20ashes%20transcoding/050.jpg](Nettlaus%20ashes%20transcoding/050.jpg)
 
+</details>    
+
 - Scattered and layered
+
+<details>
+  <summary>Click to expand!</summary>
 
     ![Nettlaus%20ashes%20transcoding/002%201.jpg](Nettlaus%20ashes%20transcoding/002%201.jpg)
 
@@ -1062,7 +1075,12 @@ This is just few separated examples, the final in outcomes.
 
     ![Nettlaus%20ashes%20transcoding/029.jpg](Nettlaus%20ashes%20transcoding/029.jpg)
 
+</details>
+
 - Colored and scattered
+
+<details>
+  <summary>Click to expand!</summary>
 
     ![Nettlaus%20ashes%20transcoding/1.jpg](Nettlaus%20ashes%20transcoding/1.jpg)
 
@@ -1105,6 +1123,8 @@ This is just few separated examples, the final in outcomes.
     ![Nettlaus%20ashes%20transcoding/nettlau10.jpg](Nettlaus%20ashes%20transcoding/nettlau10.jpg)
 
     ![Nettlaus%20ashes%20transcoding/maxi.jpg](Nettlaus%20ashes%20transcoding/maxi.jpg)
+
+</details>
 
 ## Transcoding No.2
 
