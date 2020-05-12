@@ -32,7 +32,7 @@
 
 An urn containing Nettlau's ashes, the only object in the whole archive which really differs from other artifacts, since it carries inside the real person and its closely connected to history of the archive itself. The artifact which should be questioned, after all, it might be misinterpreted and misunderstood. It touches on topics of ethics, morality, honor, history, human being and social patterns.
 
-![Nettlaus%20ashes%20transcoding/Untitled.png](Nettlaus%20ashes%20transcoding/Untitled.png)
+
 
 ## Metadata
 
@@ -47,7 +47,7 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 | **Subject, person** | Nettlau, Max
 | **Date** | 70s
 | **Collector** | Nettlau, Max
-|![enter image description here](https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+|![Nettlaus%20ashes%20transcoding/Untitled.png](Nettlaus%20ashes%20transcoding/Untitled.png)(https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
 
 
 # Research
