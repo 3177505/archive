@@ -1,7 +1,5 @@
-![Nettlaus potrait](/Nettlaus%20ashes%20transcoding/Portrait_0.jpg)
+![Nettlaus potrait](https://raw.githubusercontent.com/3177505/archive/tree/test/nettlau/Portrait_0.jpg)
 # Max Nettlau's ashes
-from https://github.com/username/repo/folder/image.jpg to
-https://raw.githubusercontent.com/username/repo/folder/image.jpg
 
 ### Table of Contents
 1. [Artefact](#Artefact)
