@@ -1,5 +1,5 @@
-![Portrait_0](https://raw.githubusercontent.com/3177505/archive/tree/test/nettlau/Portrait_0.jpg)
-# Max Nettlau's ashes
+[<img src="https://raw.githubusercontent.com/3177505/archive/tree/test/nettlau/Portrait_0.jpg" width="100%">](#)
+# Max Nettlau's ashes: DIGITAL SCATTERING
 
 ### Table of Contents
 1. [Artefact](#Artefact)
