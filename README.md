@@ -1,5 +1,5 @@
 ![Nettlaus potrait](/Nettlaus%20ashes%20transcoding/Portrait_0.jpg)
-# Transcoding Nettlau's ashes
+# Max Nettlau's ashes
 
 ### Table of Contents
 
@@ -38,7 +38,7 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/171A](https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)
+**IISG Call Number** | [IISG BG K21/171A]
 | **Physical Description** | Metal; 30 cm.
 | **Type** | Object
 | **Note** | Urn containing Nettlau's ashes.
@@ -47,6 +47,7 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 | **Subject, person** | Nettlau, Max
 | **Date** | 70s
 | **Collector** | Nettlau, Max
+|![enter image description here](https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
 
 
 # Research
@@ -367,7 +368,7 @@ In general, in the archive, the objects are becoming sacred, we are giving them 
 
 ### Images as fragments
 
-Combining and sorting his photographs to images as a symbol of ashes to scatter his remains, he using his extensive photo collection, including his personal photographs and shot of him even death. Can we visualize this character and recreate it from his remains? How would he look during the ceremony? As in real life, we can not see where the ashes are exactly on the ground, in the same way, I don't want to point at one direction, but more design this archive of images which can be translated as the act, the process of scattering. The meaning is more important than the object, so it's not fundamental to look at the images as to pieces which form one whole.
+Combining and sorting his photographs to images as a symbol of ashes to scatter his remains, the using his extensive photo collection, including his personal photographs and shot of him even death. Can we visualize this character and recreate it from his remains? How would he look during the ceremony? As in real life, we can not see where the ashes are exactly on the ground, in the same way, I don't want to point at one direction, but more design this archive of images which can be translated as the act, the process of scattering. The meaning is more important than the object, so it's not fundamental to look at the images as to pieces which form one whole.
 
 ### Methods
 
