@@ -1,4 +1,4 @@
-![Nettlaus potrait](https://raw.githubusercontent.com/3177505/archive/tree/test/nettlau/Portrait_0.jpg)
+![Portrait_0](https://raw.githubusercontent.com/3177505/archive/tree/test/nettlau/Portrait_0.jpg)
 # Max Nettlau's ashes
 
 ### Table of Contents
