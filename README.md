@@ -1,6 +1,5 @@
 ![Nettlaus potrait](/Nettlaus%20ashes%20transcoding/Portrait_0.jpg)
 # Max Nettlau's ashes
-
 ### Table of Contents
 
 1. [Artefact](#Artefact)
@@ -30,15 +29,14 @@
 
 # Artefact
 
-An urn containing Nettlau's ashes, the only object in the whole archive which really differs from other artifacts, since it carries inside the real person and its closely connected to history of the archive itself. The artifact which should be questioned, after all, it might be misinterpreted and misunderstood. It touches on topics of ethics, morality, honor, history, human being and social patterns.
-
-
+An urn containing Nettlau's ashes, the artefac which carries the question of human remains resilience and neccesity to keep them
+CHANGE!
 
 ## Metadata
 
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/171A]
+**IISG Call Number** | [IISG BG K21/171A](https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)
 | **Physical Description** | Metal; 30 cm.
 | **Type** | Object
 | **Note** | Urn containing Nettlau's ashes.
@@ -47,7 +45,7 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 | **Subject, person** | Nettlau, Max
 | **Date** | 70s
 | **Collector** | Nettlau, Max
-|![Nettlaus%20ashes%20transcoding/Untitled.png](Nettlaus%20ashes%20transcoding/Untitled.png)(https://search.iisg.amsterdam/Search/Results?lookfor=IISG+BG+K21%2F171A&type=AllFields)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+|![Nettlaus%20ashes%20transcoding/Untitled.png](Nettlaus%20ashes%20transcoding/Untitled.png)| An urn containing Nettlau's ashes, the only object in the whole archive which really differs from other artifacts, since it carries inside the real person and its closely connected to history of the archive itself. The artifact which should be questioned, after all, it might be misinterpreted and misunderstood. It touches on topics of ethics, morality, honor, history, human being and social patterns.
 
 
 # Research
