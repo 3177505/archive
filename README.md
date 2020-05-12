@@ -4,7 +4,6 @@ from https://github.com/username/repo/folder/image.jpg to
 https://raw.githubusercontent.com/username/repo/folder/image.jpg
 
 ### Table of Contents
-
 1. [Artefact](#Artefact)
     1. [Metadata](##Metadata)
 2. [Research](#Research)
@@ -303,7 +302,7 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 
 ### Chemical composition
 
-| Chemical component | **examples where we could find these elements in everyday life** |  
+| Chemical component | **Everyday life xamples** |  
 |--|--|
 | **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
 | **Calcium 25.3%** | shells, chalk, cement*
