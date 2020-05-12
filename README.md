@@ -303,30 +303,30 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 
 ### Chemical composition
 
-+ examples where we could find these elements in everyday life
-
-- *Phosphate 47.5% - baking powder, Fertilizer, glass, fireworks*
-- *Calcium 25.3% - shells, chalk, cement*
-- *Sulfate (Sulphate) 11.00% - shampoo, body wash, face cleanser, toothpaste (bake)*
-- *Potassium 3.69% - banana,  Fertilizer, fireworks*
-- *Sodium 1.12% - table salt, fertilizer, to make glass - paper, to develop*
-- *Chloride 1.00% - sea salt as sodium chloride...seaweed, rye, tomatoes, lettuce, celery, olives*
-- *Silica 0.9% -sand, gravel, clay, granite or glass, silicon carbide, and silicone*
-- *Aluminum Oxide 0.72% - just objects aluminium foil small pieces*
-- *Magnesium 0.418% - medicine, for plants too*
-- *Iron Oxide 0.118% - magnets, blood*
-- *Zinc 0.0342% - batteries, fluorescent lights*
-- *Titanium Oxide 0.0260% - paints, rocks*
-- *Barium 0.0066% - rat poison, for x ray*
-- *Antimony 0.0035% - soils, water, air - not needed in everything*
-- *Chromium 0.0018% - brewer's yeast, paint,*
-- *Copper 0.0017% - ... objects + poisons*
-- *Manganese 0.0013% - medicine, batteries*
-- *Lead 0.0008% - batteries, pigments, ammunition, crystal glass*
-- *Tin 0.0005% - polish for metals*
-- *Vanadium 0.0002% - production comes from magnetite.*
-- *Beryllium <0.0001% ?*
-- *Mercury <0.00001% - rocks*
+| Chemical component | **examples where we could find these elements in everyday life** |  
+|--|--|
+| **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
+| **Calcium 25.3%** | shells, chalk, cement*
+| **Sulfate (Sulphate) 11.00%** | shampoo, body wash, face cleanser, toothpaste (bake)*
+| **Potassium 3.69%** | banana,  Fertilizer, fireworks*
+| **Sodium 1.12%** | table salt, fertilizer, to make glass - paper, to develop*
+| **Chloride 1.00%** | sea salt as sodium chloride...seaweed, rye, tomatoes, lettuce, celery, olives*
+| **Silica 0.9%** | sand, gravel, clay, granite or glass, silicon carbide, and silicone*
+| **Aluminum Oxide 0.72%** | just objects aluminium foil small pieces*
+| **Magnesium 0.418%** | medicine, for plants too*
+| **Iron Oxide 0.118%** | magnets, blood*
+| **Zinc 0.0342%** | batteries, fluorescent lights*
+| **Titanium Oxide 0.0260%** | paints, rocks*
+| **Barium 0.0066%** | rat poison, for x ray*
+| **Antimony 0.0035%** | soils, water, air - not needed in everything*
+| **Chromium 0.0018%** | brewer's yeast, paint,*
+| **Copper 0.0017%** | ... objects + poisons*
+| **Manganese 0.0013%** | medicine, batteries*
+| **Lead 0.0008%** | batteries, pigments, ammunition, crystal glass*
+| **Tin 0.0005%** | polish for metals*
+| **Vanadium 0.0002%** | production comes from magnetite.*
+| **Beryllium <0.0001%** | ?
+| **Mercury <0.00001%** | rocks
 
 # Transcoding
 
