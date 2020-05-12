@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/3177505/archive/tree/test/nettlau/Portrait_0.jpg" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/3177505/archive/tree/test/Nettlaus%20ashes%20transcoding/Portrait_0.jpg" width="100%">](#)
 # Max Nettlau's ashes: DIGITAL SCATTERING
 
 ### Table of Contents
