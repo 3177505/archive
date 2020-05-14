@@ -871,10 +871,9 @@ The second code randomise the selection and combines two already sorted images.
         }
       }
     }
-    ```
-</details>
+  ```
 
-</br>
+</details>
 
 ### Results
 
