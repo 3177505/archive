@@ -44,7 +44,7 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 | **Subject, person** | Nettlau, Max
 | **Date** | 70s
 | **Collector** | Nettlau, Max
-|[<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Untitled.png" width="50%">]| Metal urn of round shape, contains the cremains of Max Nettlau.
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Untitled.png" width="50%">| Metal urn of round shape, contains the cremains of Max Nettlau.
 
 
 # Research
