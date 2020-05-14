@@ -555,9 +555,8 @@ Processing code, textEdit
 
 </details>
 
-
 <details>
-  <summary>Visuals containing paragraphs from Nettlau's papers</summary>
+  <summary>Visuals containing paragraphs from Nettlau's papers</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -586,7 +585,7 @@ Adobe package + if using the images from first sorting then also Processing
 To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fertilizer, sea salt, clay, aluminum foil, magnesium pill, drop of blood, inside of batteries, dry paint, rat poison (poison in general), polish for metal*
 
 <details>
-  <summary>First sorting</summary>
+  <summary>First sorting</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -629,8 +628,9 @@ Premiere pro
 
 ### Results
 
+
 <details>
-  <summary>Video sketches</summary>
+  <summary>Video sketches</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
