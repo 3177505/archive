@@ -632,9 +632,9 @@ Premiere pro
 <details>
   <summary>Video sketches</summary>
 
-  | | | |
-  |:-------------------------:|:-------------------------:|:-------------------------:|
-  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j.mp4" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/N.mp4" width="100%">|
+  src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" width="100%"> width="100%">
+  <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j.mp4"
+  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/N.mp4" width="100%">
 
 </details>
 
