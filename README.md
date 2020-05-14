@@ -131,16 +131,20 @@ After his death his private papers came to the IISH.
 
 → Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
 
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879.jpeg" width="50%">
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879._.jpeg" width="50%">
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1872.jpeg" width="50%">
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879...jpeg" width="50%">
 
-The photo collection of Nettlau from IISG
+<details><summary>The photo collection of Nettlau from IISG</summary>
 
     Max Nettlau himself death (1944):
-    |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg" width="50%">|
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg" width="50%">
 
     Max himself alive:
-    |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990.jpeg" width="50%">|
-    |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s.jpeg" width="50%">|
-    |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg" width="50%">|
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg" width="50%">
     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890.jpeg" width="50%">
     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890.jpeg" width="50%">
     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980.jpeg" width="50%">
@@ -235,7 +239,7 @@ The photo collection of Nettlau from IISG
     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Nettlau_in_the_centre_with_beard_Montseny_right_behind_him._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg" width="50%">
     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Photo._1931.jpeg" width="50%">
     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg" width="50%">
-
+</details>_
 
 <a name="2.3"></a>
 # Afterlife
