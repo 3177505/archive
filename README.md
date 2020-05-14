@@ -433,6 +433,8 @@ Processing code
 
 This is just few separated examples, the final in outcomes.
 
+First layer of the code
+
 <details>
   <summary>Pixel sorting process</summary>
 
@@ -454,6 +456,7 @@ This is just few separated examples, the final in outcomes.
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png" width="50%">|
 </details>    
 
+second layer of the code
 
 <details>
   <summary>Two layers (without sorting)</summary>
@@ -478,55 +481,19 @@ This is just few separated examples, the final in outcomes.
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/037.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/040.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/041.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/045.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/046.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/049.jpg" width="100%">|
 
-
-
 </details>    
 
-- Scattered and layered
+The two codes combined together
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Scattered and layered</summary>
 
-    ![Nettlaus%20ashes%20transcoding/002%201.jpg](Nettlaus%20ashes%20transcoding/002%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/004%201.jpg](Nettlaus%20ashes%20transcoding/004%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/006%201.jpg](Nettlaus%20ashes%20transcoding/006%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/007%201.jpg](Nettlaus%20ashes%20transcoding/007%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/008%201.jpg](Nettlaus%20ashes%20transcoding/008%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/009%201.jpg](Nettlaus%20ashes%20transcoding/009%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/010%201.jpg](Nettlaus%20ashes%20transcoding/010%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/012.jpg](Nettlaus%20ashes%20transcoding/012.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/013.jpg](Nettlaus%20ashes%20transcoding/013.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/014%201.jpg](Nettlaus%20ashes%20transcoding/014%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/015.jpg](Nettlaus%20ashes%20transcoding/015.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/016.jpg](Nettlaus%20ashes%20transcoding/016.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/017%201.jpg](Nettlaus%20ashes%20transcoding/017%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/018.jpg](Nettlaus%20ashes%20transcoding/018.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/020%201.jpg](Nettlaus%20ashes%20transcoding/020%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/023.jpg](Nettlaus%20ashes%20transcoding/023.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/024.jpg](Nettlaus%20ashes%20transcoding/024.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/027.jpg](Nettlaus%20ashes%20transcoding/027.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/028%201.jpg](Nettlaus%20ashes%20transcoding/028%201.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/029.jpg](Nettlaus%20ashes%20transcoding/029.jpg)
-
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/006%201.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/007%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/008%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/009%201.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/010%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/012.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/013.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/014%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/015.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/016.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/017%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/018.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/020%201.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/023.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/024.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/027.jpg" width="100%">|
 </details>
 
 - Colored and scattered
