@@ -925,7 +925,7 @@ I really enjoyed the image manipulation. A purely digital outcome that wasn't in
 # Outcomes
 
 Website:
-[Bunch of outcomes](https://www.notion.so/Bunch-of-outcomes-4855c586c98e4970bdece6620c9d3d60)
+[http://tereznovak.online/Nettlau.html](http://tereznovak.online/Nettlau.html)
 
 Max's personal archive of his ashes:
 
