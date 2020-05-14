@@ -585,7 +585,7 @@ Adobe package + if using the images from first sorting then also Processing
 To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fertilizer, sea salt, clay, aluminum foil, magnesium pill, drop of blood, inside of batteries, dry paint, rat poison (poison in general), polish for metal*
 
 <details>
-  <summary>First sorting</summary>
+  <summary>How to make human ash visuals</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -652,7 +652,6 @@ Part of the js code:
         link.onclick = window.open(uri);
         link.click();
     }
-
     downloadFile(downloadFiles[Math.ceil(Math.random() * downloadFiles.length)], "1");
     ```
 
@@ -700,8 +699,6 @@ Using Pixel sorting and blending data code.
   boolean saveAll = true;
   int numPx = 5;
   PImage img;
-
-
   // strip file extension for saving and renaming
   String stripFileExtension(String s) {
   s = s.substring(s.lastIndexOf('/')+1, s.length());
@@ -709,7 +706,6 @@ Using Pixel sorting and blending data code.
   s = s.substring(0, s.lastIndexOf('.'));
   return s;
   }
-
   void sortNpx(int numPx) {
   img.loadPixels();
   for (int i=0; i<img.pixels.length-numPx; i+=numPx) {
@@ -721,7 +717,165 @@ Using Pixel sorting and blending data code.
   ```
 </details>
 
+<details>
+  <summary>Edited code</summary>
 
+  ```jsx
+  PImage img;
+  void setup() {
+  img = loadImage("Portrait.jpeg");
+  img.resize(width, 0);//change this to whatever the file name of your image is
+  size(800,1000);
+  }
+  void draw() {
+  background(255);
+  loadPixels();
+  for (int y = 0; y<height; y+=1 ) {
+  for (int x = 0; x<width; x+=1) {
+  int loc = x + y*img.width;
+  float r = red (img.pixels[loc]);
+  float g = green (img.pixels[loc]);
+  float b = blue (img.pixels[loc]);
+  float av = ((r+g+b)/3.0);
+  pushMatrix();
+  translate(x,y);
+    stroke(r,g,b);
+    if (r > 100 && r < 255) {
+      line(0,0,(av-255)/3,0); //change these values to alter the length. The closer to 0 the longer the lines.
+     // you can also try different shapes or even bezier curves instead of line();
+    }
+  popMatrix();
+  }
+  }
+  println("done");
+  noLoop();
+  }
+  void keyPressed() {
+  if (key == ' ') {
+  saveFrame(millis() + "####.jpg");
+  }
+  }
+  ```
+
+</details>
+
+<details>
+  <summary>Part of the code ASDF Pixel sort by Kim Asendorf </summary>
+
+  ```jsx
+  int getNextBlackX(int x, int y) {
+  x++;
+  while(img.pixels[x + y * img.width] > blackValue) {
+  x++;
+  if(x >= img.width)
+  return img.width-1;
+  }
+  return x-1;
+  }
+  // brightness x
+  int getFirstBrightX(int x, int y) {
+  while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
+  x++;
+  if(x >= img.width)
+  return -1;
+  }
+  return x;
+  }
+  int getNextDarkX(int _x, int _y) {
+  int x = _x+1;
+  int y = _y;
+
+  while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
+  x++;
+  if(x >= img.width) return img.width-1;
+  }
+  return x-1;
+  }
+  ```
+
+</details>
+
+(Adopting image manipulation through Processing using the collected photographs. Specifically using two codes, the first one to apply pixel sorting which visualizes the scattering and touches more the mood of something disappearing, going away.
+
+<details>
+  <summary>Sort Image By Npx</summary>
+
+  ```jsx
+  // threshold values to determine sorting start and end pixels
+  int blackValue = -16000000;
+  int brightnessValue = 60;
+  int whiteValue = -13000000;
+  int row = 0;
+  int column = 0;
+  boolean saved = false;
+  void setup() {
+    img = loadImage(imgFileName+"."+fileType);
+    // use only numbers (not variables) for the size() command, Processing 3
+    size(1, 1);
+    // allow resize and update surface to image dimensions
+    surface.setResizable(true);
+    surface.setSize(img.width, img.height);
+    // load image onto surface - scale to the available width,height for display
+    image(img, 0, 0, width, height);
+  }
+  void draw() {
+    // loop through columns
+    while(column < img.width-1) {
+      println("Sorting Column " + column);
+      img.loadPixels();
+      sortColumn();
+      column++;
+      img.updatePixels();
+    }
+    // loop through rows
+    while(row < img.height-1) {
+      println("Sorting Row " + column);
+      img.loadPixels();
+      sortRow();
+      row++;
+      img.updatePixels();
+    }
+    // load updated image onto surface and scale to fit the display width,height
+    image(img, 0, 0, width, height);
+    if(!saved && frameCount >= loops) {
+    ```
+
+</details>
+
+The second code randomise the selection and combines two already sorted images.
+
+<details>
+  <summary>Part of the blending data code:</summary>
+
+  ```jsx
+  // Custom function which takes two parameters of type 'PImage'
+    void blendImages(PImage img0, PImage img1) {
+      for (int i = 0; i < width; i++) {
+        for (int j = 0; j < height; j++) {
+          // Create temporary variables x and y (we could also just use i and j)
+          int x = i;
+          int y = j;
+          // Create variable of type color and set to black
+          color col = color(0);
+          // Create two variables of type color which contain the current pixel color value
+          color c0 = img0.get(x, y);
+          color c1 = img1.get(x, y);
+          // Decide what value the variable 'col' should be
+          if (brightness(c0) > brightness(c1)) {
+            col = c0;
+          } else {
+            col = c1;
+          }
+          // Set the pixel at position x, y to the value of color variable 'col'
+          set(x, y, col);
+        }
+      }
+    }
+    ```
+
+</details>
+
+### Results
 
 <details>
   <summary>Research sorting first sketches</summary>
@@ -744,207 +898,17 @@ Using Pixel sorting and blending data code.
 </details>
 
 <details>
-  <summary>Edited code</summary>
-
-  ```jsx
-  PImage img;
-
-  void setup() {
-  img = loadImage("Portrait.jpeg");
-  img.resize(width, 0);//change this to whatever the file name of your image is
-  size(800,1000);
-  }
-
-  void draw() {
-  background(255);
-  loadPixels();
-  for (int y = 0; y<height; y+=1 ) {
-  for (int x = 0; x<width; x+=1) {
-  int loc = x + y*img.width;
-  float r = red (img.pixels[loc]);
-  float g = green (img.pixels[loc]);
-  float b = blue (img.pixels[loc]);
-  float av = ((r+g+b)/3.0);
-
-  pushMatrix();
-  translate(x,y);
-    stroke(r,g,b);
-    if (r > 100 && r < 255) {
-      line(0,0,(av-255)/3,0); //change these values to alter the length. The closer to 0 the longer the lines.
-     // you can also try different shapes or even bezier curves instead of line();
-    }
-  popMatrix();
-
-  }
-
-  }
-  println("done");
-  noLoop();
-  }
-
-  void keyPressed() {
-  if (key == ' ') {
-  saveFrame(millis() + "####.jpg");
-  }
-  }
-  ```
-
-</details>
-
-<details>
   <summary>Sort Image By Npx</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0009.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0010.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0012.png" width="100%">|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004_copy.jpg" width="100%"> | |
-
-</details>
-
-<details>
-  <summary>Part of the code ASDF Pixel sort by Kim Asendorf </summary>
-
-  ```jsx
-  int getNextBlackX(int x, int y) {
-  x++;
-
-  while(img.pixels[x + y * img.width] > blackValue) {
-  x++;
-  if(x >= img.width)
-  return img.width-1;
-  }
-
-  return x-1;
-  }
-
-  // brightness x
-  int getFirstBrightX(int x, int y) {
-
-  while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-  x++;
-  if(x >= img.width)
-  return -1;
-  }
-
-  return x;
-  }
-
-  int getNextDarkX(int _x, int _y) {
-  int x = _x+1;
-  int y = _y;
-
-  while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-  x++;
-  if(x >= img.width) return img.width-1;
-  }
-  return x-1;
-  }
-  ```
-
-</details>
-
-
-
-(Adopting image manipulation through Processing using the collected photographs. Specifically using two codes, the first one to apply pixel sorting which visualizes the scattering and touches more the mood of something disappearing, going away.
-
-<details>
-  <summary>Sort Image By Npx</summary>
-
-  // threshold values to determine sorting start and end pixels
-  int blackValue = -16000000;
-  int brightnessValue = 60;
-  int whiteValue = -13000000;
-
-  int row = 0;
-  int column = 0;
-
-  boolean saved = false;
-
-  void setup() {
-    img = loadImage(imgFileName+"."+fileType);
-
-    // use only numbers (not variables) for the size() command, Processing 3
-    size(1, 1);
-
-    // allow resize and update surface to image dimensions
-    surface.setResizable(true);
-    surface.setSize(img.width, img.height);
-
-    // load image onto surface - scale to the available width,height for display
-    image(img, 0, 0, width, height);
-  }
-
-  void draw() {
-
-    // loop through columns
-    while(column < img.width-1) {
-      println("Sorting Column " + column);
-      img.loadPixels();
-      sortColumn();
-      column++;
-      img.updatePixels();
-    }
-
-    // loop through rows
-    while(row < img.height-1) {
-      println("Sorting Row " + column);
-      img.loadPixels();
-      sortRow();
-      row++;
-      img.updatePixels();
-    }
-
-    // load updated image onto surface and scale to fit the display width,height
-    image(img, 0, 0, width, height);
-
-    if(!saved && frameCount >= loops) {
-
-</details>
-
-The second code randomise the selection and combines two already sorted images.
-
-<details>
-  <summary>Part of the blending data code:</summary>
-
-
-  ```jsx
-  // Custom function which takes two parameters of type 'PImage'
-    void blendImages(PImage img0, PImage img1) {
-      for (int i = 0; i < width; i++) {
-        for (int j = 0; j < height; j++) {
-          // Create temporary variables x and y (we could also just use i and j)
-          int x = i;
-          int y = j;
-          // Create variable of type color and set to black
-          color col = color(0);
-          // Create two variables of type color which contain the current pixel color value
-          color c0 = img0.get(x, y);
-          color c1 = img1.get(x, y);
-
-
-          // Decide what value the variable 'col' should be
-          if (brightness(c0) > brightness(c1)) {
-            col = c0;
-          } else {
-            col = c1;
-          }
-
-          // Set the pixel at position x, y to the value of color variable 'col'
-          set(x, y, col);
-        }
-      }
-    }
-    ```
 
 </details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
-Various approach to code so I got really different results
-
-### Results
-
-Please find it in outcomes >
+Various approach to code so I got really different results.
 
 ### Source Links
 
@@ -955,21 +919,24 @@ Please find it in outcomes >
 <a name="4"></a>
 # Reflection
 
-I really enjoyed the image manipulation and the way how I'm conveying the story within the limitations. A purely digital outcome that wasn't intended but then the concept evolved in such a way that it wouldn't make sense anymore. Rethinking the story narration and story telling.
+I really enjoyed the image manipulation. A purely digital outcome that wasn't intended but then the concept evolved in such a way that it wouldn't make sense anymore. Rethinking the story narration and story telling.
 
 <a name="5"></a>
 # Outcomes
 
+Website:
 [Bunch of outcomes](https://www.notion.so/Bunch-of-outcomes-4855c586c98e4970bdece6620c9d3d60)
+
+Max's personal archive of his ashes:
 
 <a name="6"></a>
 # Conclusion
 
--
+Soon
 
-<a name="7"></a>
+<!-- <a name="7"></a>
 ## Bibliography
 
 To be continued...
 
-**[1]**: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+**[1]**: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. -->
