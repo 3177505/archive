@@ -271,6 +271,7 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 
 <details>
   <summary>Everyday life examples of chemical component</summary>
+  <br />
 | Chemical component | **Everyday life xamples** |  
 |--|--|
 | **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
@@ -295,7 +296,10 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 | **Vanadium 0.0002%** | production comes from magnetite.*
 | **Beryllium <0.0001%** | ?
 | **Mercury <0.00001%** | rocks
+<br />
 </details>
+
+
 <a name="3"></a>
 # Transcoding
 
