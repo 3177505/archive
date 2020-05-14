@@ -134,11 +134,11 @@ After his death his private papers came to the IISH.
 <details>
   <summary>Reading List</summary>
 Max Nettlau himself death (1944):
-
+<br /><br />
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg" width="50%">
 
 Max himself alive:
-
+<br /><br />
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990.jpeg" width="50%">
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s.jpeg" width="50%">
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg" width="50%">
@@ -237,8 +237,6 @@ Urales with glasses, Montseny with glasses, Nettlau right with beard. Playa Rovi
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Photo._1931.jpeg" width="50%">
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg" width="50%">
 </details>_
-
-
 
 <a name="2.3"></a>
 # Afterlife
