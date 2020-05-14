@@ -85,6 +85,9 @@ Nettlau hated training animals and he pitied timid circus lions equally with fle
 <a name="2.1.4"></a>
 ### Timeline
 
+<details>
+  <summary>Timetable</summary>
+
 | Time | Data |  
 |--|--|
 | **April 30, 1865:** | Max Heinrich Hermann Reinhardt Nettlau is born in Neuwaldegg, a suburb of Vienna.
@@ -114,6 +117,8 @@ Nettlau hated training animals and he pitied timid circus lions equally with fle
 | **1938:** | Moved to Amsterdam.
 | **1940:** | Began to write the last version of his memoirs. They totaled 6,000 pages and were never completed.
 | **July 23, 1944:** | Died suddenly in Amsterdam of cancer of the stomach.
+
+</details>
 
 <a name="2.2"></a>
 ## IISG = Nettlau
@@ -268,10 +273,8 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 ### Chemical composition
 
 <details>
-  <summary>Chomical components</summary>
+  <summary>Chemical components table</summary>
 
-| | | |
-|:-------------------------:|:-------------------------:|
 | Chemical component | **Everyday life xamples** |  
 |--|--|
 | **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
