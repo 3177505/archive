@@ -687,8 +687,7 @@ Using Pixel sorting and blending data code.
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/124670002.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png" width="100%">|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.58.png" width="100%"> | 
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png" width="100%"> |
 
 </details>
 
@@ -744,999 +743,204 @@ Using Pixel sorting and blending data code.
 
 </details>
 
+<details>
+  <summary>Edited code</summary>
 
+  ```jsx
+  PImage img;
 
-    ```jsx
-    PImage img;
-    ```
+  void setup() {
+  img = loadImage("Portrait.jpeg");
+  img.resize(width, 0);//change this to whatever the file name of your image is
+  size(800,1000);
+  }
 
-    ```jsx
-    void setup() {
-    img = loadImage("Portrait.jpeg");
-    img.resize(width, 0);//change this to whatever the file name of your image is
-    size(800,1000);
+  void draw() {
+  background(255);
+  loadPixels();
+  for (int y = 0; y<height; y+=1 ) {
+  for (int x = 0; x<width; x+=1) {
+  int loc = x + y*img.width;
+  float r = red (img.pixels[loc]);
+  float g = green (img.pixels[loc]);
+  float b = blue (img.pixels[loc]);
+  float av = ((r+g+b)/3.0);
+
+  pushMatrix();
+  translate(x,y);
+    stroke(r,g,b);
+    if (r > 100 && r < 255) {
+      line(0,0,(av-255)/3,0); //change these values to alter the length. The closer to 0 the longer the lines.
+     // you can also try different shapes or even bezier curves instead of line();
     }
-    ```
+  popMatrix();
 
-    ```jsx
-    void draw() {
-    background(255);
-    loadPixels();
-    for (int y = 0; y<height; y+=1 ) {
-    for (int x = 0; x<width; x+=1) {
-    int loc = x + y*img.width;
-    float r = red (img.pixels[loc]);
-    float g = green (img.pixels[loc]);
-    float b = blue (img.pixels[loc]);
-    float av = ((r+g+b)/3.0);
-    ```
+  }
 
-    ```
-    pushMatrix();
-    translate(x,y);
-      stroke(r,g,b);
-      if (r > 100 && r < 255) {
-        line(0,0,(av-255)/3,0); //change these values to alter the length. The closer to 0 the longer the lines.
-       // you can also try different shapes or even bezier curves instead of line();
-      }
-    popMatrix();
+  }
+  println("done");
+  noLoop();
+  }
 
-    }
-    ```
+  void keyPressed() {
+  if (key == ' ') {
+  saveFrame(millis() + "####.jpg");
+  }
+  }
+  ```
 
-    ```jsx
-    }
-    println("done");
-    noLoop();
-    }
-    ```
+</details>
 
-    ```jsx
-    void keyPressed() {
-    if (key == ' ') {
-    saveFrame(millis() + "####.jpg");
-    }
-    }
-    ```
+<details>
+  <summary>Sort Image By Npx</summary>
 
-    SortImageByNpx
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0009.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0010.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0012.png" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004_copy.jpg" width="100%"> | |
 
-    ![Nettlaus%20ashes%20transcoding/0009.png](Nettlaus%20ashes%20transcoding/0009.png)
+</details>
 
-    ![Nettlaus%20ashes%20transcoding/0010.png](Nettlaus%20ashes%20transcoding/0010.png)
+<details>
+  <summary>Part of the code ASDF Pixel sort by Kim Asendorf </summary>
 
-    ![Nettlaus%20ashes%20transcoding/0012.png](Nettlaus%20ashes%20transcoding/0012.png)
+  ```jsx
+  int getNextBlackX(int x, int y) {
+  x++;
 
-    ![Nettlaus%20ashes%20transcoding/0013.png](Nettlaus%20ashes%20transcoding/0013.png)
+  while(img.pixels[x + y * img.width] > blackValue) {
+  x++;
+  if(x >= img.width)
+  return img.width-1;
+  }
 
-    ```jsx
-    /*
-    ASDF Pixel Sort
-    Kim Asendorf | 2010 | [kimasendorf.com](http://kimasendorf.com/)
-    ```
+  return x-1;
+  }
 
-    ```jsx
-    sorting modes
-    ```
+  // brightness x
+  int getFirstBrightX(int x, int y) {
 
-    ```jsx
-    0 = black
-    1 = brightness
-    2 = white
-    ```
+  while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
+  x++;
+  if(x >= img.width)
+  return -1;
+  }
 
-    ```jsx
-    */
-    ```
+  return x;
+  }
 
-    ```jsx
-    int mode = 1;
-    ```
+  int getNextDarkX(int _x, int _y) {
+  int x = _x+1;
+  int y = _y;
 
-    ```jsx
-    // image path is relative to sketch directory
-    PImage img;
-    String imgFileName = "Portrait";
-    String fileType = "jpeg";
-    ```
+  while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
+  x++;
+  if(x >= img.width) return img.width-1;
+  }
+  return x-1;
+  }
+  ```
 
-    ```jsx
-    int loops = 5;
-    ```
+</details>
 
-    ```jsx
-    // threshold values to determine sorting start and end pixels
-    int blackValue = -16000000;
-    int brightnessValue = 60;
-    int whiteValue = -13000000;
-    ```
 
-    ```jsx
-    int row = 0;
-    int column = 0;
-    ```
-
-    ```jsx
-    boolean saved = false;
-    ```
-
-    ```jsx
-    void setup() {
-    img = loadImage(imgFileName+"."+fileType);
-    ```
-
-    ```jsx
-    // use only numbers (not variables) for the size() command, Processing 3
-    size(1, 1);
-    ```
-
-    ```jsx
-    // allow resize and update surface to image dimensions
-    surface.setResizable(true);
-    surface.setSize(500, 650);
-    ```
-
-    ```jsx
-    // load image onto surface - scale to the available width,height for display
-    image(img, 0, 0, width, height);
-    }
-    ```
-
-    ```jsx
-    void draw() {
-    ```
-
-    ```jsx
-    // loop through columns
-    while(column < img.width-1) {
-    println("Sorting Column " + column);
-    img.loadPixels();
-    sortColumn();
-    column++;
-    img.updatePixels();
-    }
-    ```
-
-    ```jsx
-    // loop through rows
-    while(row < img.height-1) {
-    println("Sorting Row " + column);
-    img.loadPixels();
-    sortRow();
-    row++;
-    img.updatePixels();
-    }
-    ```
-
-    ```jsx
-    // load updated image onto surface and scale to fit the display width,height
-    image(img, 0, 0, width, height);
-    ```
-
-    ```jsx
-    if(!saved && frameCount >= loops) {
-    ```
-
-    ```jsx
-    // save img
-    img.save(imgFileName+"_"+mode+".png");
-    ```
-
-    ```
-    saved = true;
-    println("Saved "+frameCount+" Frame(s)");
-
-    // exiting here can interrupt file save, wait for user to trigger exit
-    println("Click or press any key to exit...");
-    ```
-
-    ```jsx
-    }
-    }
-    ```
-
-    ```jsx
-    void keyPressed() {
-    if(saved)
-    {
-    System.exit(0);
-    }
-    }
-    ```
-
-    ```jsx
-    void mouseClicked() {
-    if(saved)
-    {
-    System.exit(0);
-    }
-    }
-    ```
-
-    ```jsx
-    void sortRow() {
-    // current row
-    int y = row;
-    ```
-
-    ```jsx
-    // where to start sorting
-    int x = 0;
-    ```
-
-    ```jsx
-    // where to stop sorting
-    int xend = 0;
-    ```
-
-    ```jsx
-    while(xend < img.width-1) {
-    switch(mode) {
-    case 0:
-    x = getFirstNotBlackX(x, y);
-    xend = getNextBlackX(x, y);
-    break;
-    case 1:
-    x = getFirstBrightX(x, y);
-    xend = getNextDarkX(x, y);
-    break;
-    case 2:
-    x = getFirstNotWhiteX(x, y);
-    xend = getNextWhiteX(x, y);
-    break;
-    default:
-    break;
-    }
-    ```
-
-    ```
-    if(x < 0) break;
-
-    int sortLength = xend-x;
-
-    color[] unsorted = new color[sortLength];
-    color[] sorted = new color[sortLength];
-
-    for(int i=0; i<sortLength; i++) {
-      unsorted[i] = img.pixels[x + i + y * img.width];
-    }
-
-    sorted = sort(unsorted);
-
-    for(int i=0; i<sortLength; i++) {
-      img.pixels[x + i + y * img.width] = sorted[i];      
-    }
-
-    x = xend+1;
-    ```
-
-    ```jsx
-    }
-    }
-    ```
-
-    ```jsx
-    void sortColumn() {
-    // current column
-    int x = column;
-    ```
-
-    ```jsx
-    // where to start sorting
-    int y = 0;
-    ```
-
-    ```jsx
-    // where to stop sorting
-    int yend = 0;
-    ```
-
-    ```jsx
-    while(yend < img.height-1) {
-    switch(mode) {
-    case 0:
-    y = getFirstNotBlackY(x, y);
-    yend = getNextBlackY(x, y);
-    break;
-    case 1:
-    y = getFirstBrightY(x, y);
-    yend = getNextDarkY(x, y);
-    break;
-    case 2:
-    y = getFirstNotWhiteY(x, y);
-    yend = getNextWhiteY(x, y);
-    break;
-    default:
-    break;
-    }
-    ```
-
-    ```
-    if(y < 0) break;
-
-    int sortLength = yend-y;
-
-    color[] unsorted = new color[sortLength];
-    color[] sorted = new color[sortLength];
-
-    for(int i=0; i<sortLength; i++) {
-      unsorted[i] = img.pixels[x + (y+i) * img.width];
-    }
-
-    sorted = sort(unsorted);
-
-    for(int i=0; i<sortLength; i++) {
-      img.pixels[x + (y+i) * img.width] = sorted[i];
-    }
-
-    y = yend+1;
-    ```
-
-    ```jsx
-    }
-    }
-    ```
-
-    ```jsx
-    // black x
-    int getFirstNotBlackX(int x, int y) {
-    ```
-
-    ```jsx
-    while(img.pixels[x + y * img.width] < blackValue) {
-    x++;
-    if(x >= img.width)
-    return -1;
-    }
-    ```
-
-    ```jsx
-    return x;
-    }
-    ```
-
-    ```jsx
-    int getNextBlackX(int x, int y) {
-    x++;
-    ```
-
-    ```jsx
-    while(img.pixels[x + y * img.width] > blackValue) {
-    x++;
-    if(x >= img.width)
-    return img.width-1;
-    }
-    ```
-
-    ```jsx
-    return x-1;
-    }
-    ```
-
-    ```jsx
-    // brightness x
-    int getFirstBrightX(int x, int y) {
-    ```
-
-    ```jsx
-    while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-    x++;
-    if(x >= img.width)
-    return -1;
-    }
-    ```
-
-    ```jsx
-    return x;
-    }
-    ```
-
-    ```jsx
-    int getNextDarkX(int _x, int _y) {
-    int x = _x+1;
-    int y = _y;
-    ```
-
-    ```jsx
-    while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-    x++;
-    if(x >= img.width) return img.width-1;
-    }
-    return x-1;
-    }
-    ```
-
-    ```jsx
-    // white x
-    int getFirstNotWhiteX(int x, int y) {
-    ```
-
-    ```jsx
-    while(img.pixels[x + y * img.width] > whiteValue) {
-    x++;
-    if(x >= img.width)
-    return -1;
-    }
-    return x;
-    }
-    ```
-
-    ```jsx
-    int getNextWhiteX(int x, int y) {
-    x++;
-    ```
-
-    ```jsx
-    while(img.pixels[x + y * img.width] < whiteValue) {
-    x++;
-    if(x >= img.width)
-    return img.width-1;
-    }
-    return x-1;
-    }
-    ```
-
-    ```jsx
-    // black y
-    int getFirstNotBlackY(int x, int y) {
-    ```
-
-    ```jsx
-    if(y < img.height) {
-    while(img.pixels[x + y * img.width] < blackValue) {
-    y++;
-    if(y >= img.height)
-    return -1;
-    }
-    }
-    ```
-
-    ```jsx
-    return y;
-    }
-    ```
-
-    ```jsx
-    int getNextBlackY(int x, int y) {
-    y++;
-    ```
-
-    ```jsx
-    if(y < img.height) {
-    while(img.pixels[x + y * img.width] > blackValue) {
-    y++;
-    if(y >= img.height)
-    return img.height-1;
-    }
-    }
-    ```
-
-    ```jsx
-    return y-1;
-    }
-    ```
-
-    ```jsx
-    // brightness y
-    int getFirstBrightY(int x, int y) {
-    ```
-
-    ```jsx
-    if(y < img.height) {
-    while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-    y++;
-    if(y >= img.height)
-    return -1;
-    }
-    }
-    ```
-
-    ```jsx
-    return y;
-    }
-    ```
-
-    ```jsx
-    int getNextDarkY(int x, int y) {
-    y++;
-    ```
-
-    ```jsx
-    if(y < img.height) {
-    while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-    y++;
-    if(y >= img.height)
-    return img.height-1;
-    }
-    }
-    return y-1;
-    }
-    ```
-
-    ```jsx
-    // white y
-    int getFirstNotWhiteY(int x, int y) {
-    ```
-
-    ```jsx
-    if(y < img.height) {
-    while(img.pixels[x + y * img.width] > whiteValue) {
-    y++;
-    if(y >= img.height)
-    return -1;
-    }
-    }
-    ```
-
-    ```jsx
-    return y;
-    }
-    ```
-
-    ```jsx
-    int getNextWhiteY(int x, int y) {
-    y++;
-    ```
-
-    ```jsx
-    if(y < img.height) {
-    while(img.pixels[x + y * img.width] < whiteValue) {
-    y++;
-    if(y >= img.height)
-    return img.height-1;
-    }
-    }
-    ```
-
-    ```jsx
-    return y-1;
-    }
-    ```
 
 (Adopting image manipulation through Processing using the collected photographs. Specifically using two codes, the first one to apply pixel sorting which visualizes the scattering and touches more the mood of something disappearing, going away.
 
-- Pixel sorting code:
+<details>
+  <summary>Sort Image By Npx</summary>
 
-    ```jsx
-    /*
-     ASDF Pixel Sort
-     Kim Asendorf | 2010 | kimasendorf.com
+  // threshold values to determine sorting start and end pixels
+  int blackValue = -16000000;
+  int brightnessValue = 60;
+  int whiteValue = -13000000;
 
-     sorting modes
+  int row = 0;
+  int column = 0;
 
-     0 = black
-     1 = brightness
-     2 = white
+  boolean saved = false;
 
-     */
+  void setup() {
+    img = loadImage(imgFileName+"."+fileType);
 
-    int mode = 1;
+    // use only numbers (not variables) for the size() command, Processing 3
+    size(1, 1);
 
-    // image path is relative to sketch directory
-    PImage img;
-    String imgFileName = "Portrait";
-    String fileType = "jpeg";
+    // allow resize and update surface to image dimensions
+    surface.setResizable(true);
+    surface.setSize(img.width, img.height);
 
-    int loops = 1;
+    // load image onto surface - scale to the available width,height for display
+    image(img, 0, 0, width, height);
+  }
 
-    // threshold values to determine sorting start and end pixels
-    int blackValue = -16000000;
-    int brightnessValue = 60;
-    int whiteValue = -13000000;
+  void draw() {
 
-    int row = 0;
-    int column = 0;
-
-    boolean saved = false;
-
-    void setup() {
-      img = loadImage(imgFileName+"."+fileType);
-
-      // use only numbers (not variables) for the size() command, Processing 3
-      size(1, 1);
-
-      // allow resize and update surface to image dimensions
-      surface.setResizable(true);
-      surface.setSize(img.width, img.height);
-
-      // load image onto surface - scale to the available width,height for display
-      image(img, 0, 0, width, height);
+    // loop through columns
+    while(column < img.width-1) {
+      println("Sorting Column " + column);
+      img.loadPixels();
+      sortColumn();
+      column++;
+      img.updatePixels();
     }
 
-    void draw() {
-
-      // loop through columns
-      while(column < img.width-1) {
-        println("Sorting Column " + column);
-        img.loadPixels();
-        sortColumn();
-        column++;
-        img.updatePixels();
-      }
-
-      // loop through rows
-      while(row < img.height-1) {
-        println("Sorting Row " + column);
-        img.loadPixels();
-        sortRow();
-        row++;
-        img.updatePixels();
-      }
-
-      // load updated image onto surface and scale to fit the display width,height
-      image(img, 0, 0, width, height);
-
-      if(!saved && frameCount >= loops) {
-
-      // save img
-        img.save(imgFileName+"_"+mode+".png");
-
-        saved = true;
-        println("Saved "+frameCount+" Frame(s)");
-
-        // exiting here can interrupt file save, wait for user to trigger exit
-        println("Click or press any key to exit...");
-      }
+    // loop through rows
+    while(row < img.height-1) {
+      println("Sorting Row " + column);
+      img.loadPixels();
+      sortRow();
+      row++;
+      img.updatePixels();
     }
 
-    void keyPressed() {
-      if(saved)
-      {
-        System.exit(0);
-      }
-    }
+    // load updated image onto surface and scale to fit the display width,height
+    image(img, 0, 0, width, height);
 
-    void mouseClicked() {
-      if(saved)
-      {
-        System.exit(0);
-      }
-    }
+    if(!saved && frameCount >= loops) {
 
-    void sortRow() {
-      // current row
-      int y = row;
-
-      // where to start sorting
-      int x = 0;
-
-      // where to stop sorting
-      int xend = 0;
-
-      while(xend < img.width-1) {
-        switch(mode) {
-          case 0:
-            x = getFirstNotBlackX(x, y);
-            xend = getNextBlackX(x, y);
-            break;
-          case 1:
-            x = getFirstBrightX(x, y);
-            xend = getNextDarkX(x, y);
-            break;
-          case 2:
-            x = getFirstNotWhiteX(x, y);
-            xend = getNextWhiteX(x, y);
-            break;
-          default:
-            break;
-        }
-
-        if(x < 0) break;
-
-        int sortLength = xend-x;
-
-        color[] unsorted = new color[sortLength];
-        color[] sorted = new color[sortLength];
-
-        for(int i=0; i<sortLength; i++) {
-          unsorted[i] = img.pixels[x + i + y * img.width];
-        }
-
-        sorted = sort(unsorted);
-
-        for(int i=0; i<sortLength; i++) {
-          img.pixels[x + i + y * img.width] = sorted[i];      
-        }
-
-        x = xend+1;
-      }
-    }
-
-    void sortColumn() {
-      // current column
-      int x = column;
-
-      // where to start sorting
-      int y = 0;
-
-      // where to stop sorting
-      int yend = 0;
-
-      while(yend < img.height-1) {
-        switch(mode) {
-          case 0:
-            y = getFirstNotBlackY(x, y);
-            yend = getNextBlackY(x, y);
-            break;
-          case 1:
-            y = getFirstBrightY(x, y);
-            yend = getNextDarkY(x, y);
-            break;
-          case 2:
-            y = getFirstNotWhiteY(x, y);
-            yend = getNextWhiteY(x, y);
-            break;
-          default:
-            break;
-        }
-
-        if(y < 0) break;
-
-        int sortLength = yend-y;
-
-        color[] unsorted = new color[sortLength];
-        color[] sorted = new color[sortLength];
-
-        for(int i=0; i<sortLength; i++) {
-          unsorted[i] = img.pixels[x + (y+i) * img.width];
-        }
-
-        sorted = sort(unsorted);
-
-        for(int i=0; i<sortLength; i++) {
-          img.pixels[x + (y+i) * img.width] = sorted[i];
-        }
-
-        y = yend+1;
-      }
-    }
-
-    // black x
-    int getFirstNotBlackX(int x, int y) {
-
-      while(img.pixels[x + y * img.width] < blackValue) {
-        x++;
-        if(x >= img.width)
-          return -1;
-      }
-
-      return x;
-    }
-
-    int getNextBlackX(int x, int y) {
-      x++;
-
-      while(img.pixels[x + y * img.width] > blackValue) {
-        x++;
-        if(x >= img.width)
-          return img.width-1;
-      }
-
-      return x-1;
-    }
-
-    // brightness x
-    int getFirstBrightX(int x, int y) {
-
-      while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-        x++;
-        if(x >= img.width)
-          return -1;
-      }
-
-      return x;
-    }
-
-    int getNextDarkX(int _x, int _y) {
-      int x = _x+1;
-      int y = _y;
-
-      while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-        x++;
-        if(x >= img.width) return img.width-1;
-      }
-      return x-1;
-    }
-
-    // white x
-    int getFirstNotWhiteX(int x, int y) {
-
-      while(img.pixels[x + y * img.width] > whiteValue) {
-        x++;
-        if(x >= img.width)
-          return -1;
-      }
-      return x;
-    }
-
-    int getNextWhiteX(int x, int y) {
-      x++;
-
-      while(img.pixels[x + y * img.width] < whiteValue) {
-        x++;
-        if(x >= img.width)
-          return img.width-1;
-      }
-      return x-1;
-    }
-
-    // black y
-    int getFirstNotBlackY(int x, int y) {
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] < blackValue) {
-          y++;
-          if(y >= img.height)
-            return -1;
-        }
-      }
-
-      return y;
-    }
-
-    int getNextBlackY(int x, int y) {
-      y++;
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] > blackValue) {
-          y++;
-          if(y >= img.height)
-            return img.height-1;
-        }
-      }
-
-      return y-1;
-    }
-
-    // brightness y
-    int getFirstBrightY(int x, int y) {
-
-      if(y < img.height) {
-        while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-          y++;
-          if(y >= img.height)
-            return -1;
-        }
-      }
-
-      return y;
-    }
-
-    int getNextDarkY(int x, int y) {
-      y++;
-
-      if(y < img.height) {
-        while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-          y++;
-          if(y >= img.height)
-            return img.height-1;
-        }
-      }
-      return y-1;
-    }
-
-    // white y
-    int getFirstNotWhiteY(int x, int y) {
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] > whiteValue) {
-          y++;
-          if(y >= img.height)
-            return -1;
-        }
-      }
-
-      return y;
-    }
-
-    int getNextWhiteY(int x, int y) {
-      y++;
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] < whiteValue) {
-          y++;
-          if(y >= img.height)
-            return img.height-1;
-        }
-      }
-
-      return y-1;
-    }
-    ```
+</details>
 
 The second code randomise the selection and combines two already sorted images.
 
-- Blending data code:
-
-    ```jsx
-    java.io.File folder;
-    String[] filenames;
-    PImage[] imgs;
-
-    void setup() {
-      size(800, 800);
-      frameRate(1);
-
-      // Initialize arrays
-      folder = new java.io.File(sketchPath("data"));
-      filenames = folder.list();
-      imgs = new PImage[filenames.length];
-
-      // Populate image array with all images from the data folder
-      // There should only be images in the folder, or it will throw an error!
-      // A hidden .DS_STORE file (on a Mac) will let this fail for example
-
-      for(int i = 0; i < filenames.length; i++) {
-        imgs[i] = loadImage(filenames[i]);    
-        // Optional: resize image (leave one argument as 0 to resize proportionally)
-        //imgs[i].resize(width, 0);
-      }
-
-    }
-
-    void draw() {
-      // Pick two random indexes, aka which item we want to pick from the images array
-      int randomIndex0 = int(random(filenames.length));
-      int randomIndex1 = int(random(filenames.length));
-
-      // Blend two images together using a custom function which accepts two parameters
-      blendImages(imgs[randomIndex0], imgs[randomIndex1]);
-
-      // Optional: save frame
-      saveFrame("###.jpg");
-    }
-
-    // Custom function which takes two parameters of type 'PImage'
-      void blendImages(PImage img0, PImage img1) {
-        for (int i = 0; i < width; i++) {
-          for (int j = 0; j < height; j++) {
-            // Create temporary variables x and y (we could also just use i and j)
-            int x = i;
-            int y = j;
-            // Create variable of type color and set to black
-            color col = color(0);
-            // Create two variables of type color which contain the current pixel color value
-            color c0 = img0.get(x, y);
-            color c1 = img1.get(x, y);
+<details>
+  <summary>Part of the blending data code:</summary>
 
 
-            // Decide what value the variable 'col' should be
-            if (brightness(c0) > brightness(c1)) {
-              col = c0;
-            } else {
-              col = c1;
-            }
+  ```jsx
+  // Custom function which takes two parameters of type 'PImage'
+    void blendImages(PImage img0, PImage img1) {
+      for (int i = 0; i < width; i++) {
+        for (int j = 0; j < height; j++) {
+          // Create temporary variables x and y (we could also just use i and j)
+          int x = i;
+          int y = j;
+          // Create variable of type color and set to black
+          color col = color(0);
+          // Create two variables of type color which contain the current pixel color value
+          color c0 = img0.get(x, y);
+          color c1 = img1.get(x, y);
 
-            // Set the pixel at position x, y to the value of color variable 'col'
-            set(x, y, col);
+
+          // Decide what value the variable 'col' should be
+          if (brightness(c0) > brightness(c1)) {
+            col = c0;
+          } else {
+            col = c1;
           }
+
+          // Set the pixel at position x, y to the value of color variable 'col'
+          set(x, y, col);
         }
-      }
-
-    // Using a different technique to blend images
-    // Note: two function can not have the same name!
-
-    //void blendImages(PImage a, PImage b) {
-    //  image(a, 0, 0);
-    //  blend(b, 0, 0, width, height, 0, 0, width, height, SCREEN);
-    //  filter(BLUR, 3);
-    //  //filter(INVERT);
-    //  //filter(POSTERIZE, 3);
-    //  //filter(INVERT);
-    //}
-
-    // Optional: save the frame when you press a key, in this case the spacebar
-    void keyPressed() {
-      if (key == ' ') {
-        saveFrame(millis() + "####.jpg");
       }
     }
     ```
+
 </details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
-Various approach to code so I got really different results.)
+Various approach to code so I got really different results
 
 ### Results
 
