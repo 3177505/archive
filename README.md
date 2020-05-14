@@ -2,8 +2,8 @@
 # Max Nettlau's ashes: DIGITAL SCATTERING
 
 ### Table of Contents
-1. [Artefact](#artefact)
-    1. [Metadata](##metadata)
+1. [Artefact](#1)
+    1. [Metadata](#1.1)
 2. [Research](#research)
     1. [Nettlau's identity](##nettlau'-sidentity)
         1. [Max](##nettlau's-identity)
@@ -15,22 +15,24 @@
     4. [Human ashes](##humanashes)
         1. [Chemical composition](###chemical-composition)
 3. [Transcoding](#transcoding)
-    1. [No. 1](#transcoding-no-1) Images as fragments
-    2. [No. 2](#transcoding-no-2) Words hidden in images
-    3. [No. 3](#transcoding-no-3) Chemical encoding
-    4. [No. 4](#transcoding-no-4) Dialog from our meeting
-    5. [No. 5](#transcoding-no-5) Videos as a memorial
-    6. [Transcoding Tool](#transcoding-tool) No. 1
-    7. [Transcoding Tool](#transcoding-tool) No. 2
+    1. [No. 1](##transcoding-no-1) Images as fragments
+    2. [No. 2](##transcoding-no-2) Words hidden in images
+    3. [No. 3](##transcoding-no-3) Chemical encoding
+    4. [No. 4](##transcoding-no-4) Dialog from our meeting
+    5. [No. 5](##transcoding-no-5) Videos as a memorial
+    6. [Transcoding Tool](##transcoding-tool) No. 1
+    7. [Transcoding Tool](##transcoding-tool) No. 2
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography)
 
+<a name="1"></a>
 # Artefact
 
 An urn containing Nettlau's ashes, the only object in the whole archive which really differs from other artifacts, since it carries inside the real person and its closely connected to history of the archive itself. The artifact which should be questioned, after all, it might be misinterpreted and misunderstood. It touches on topics of ethics, morality, honor, history, human being and social patterns.
 
+<a name="1.1"></a>
 ## Metadata
 
 | Tag | Data |  
