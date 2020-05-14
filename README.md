@@ -56,7 +56,7 @@ The reason why I chose to transcode this specific object, which is not always at
 
 <a name="2.1"></a>
 ## Nettlau's identity
-<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png" width="25%" padding-left="50%">
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png" width="25%">
 
 <a name="2.1.1"></a>
 ## Max
@@ -67,7 +67,7 @@ His father, a prince's court gardener, **taught him to love nature.** Nettlau be
 
 In the 1890s realising that a generation of socialist and anarchist militants from the mid-19th century was passing away and their archives of writings and correspondence being destroyed, **he concentrated his effort and a recent modest inheritance from his father on acquiring and rescuing such collections from destruction**. He also made many interviews of veteran militants for posterity. He wrote biographies of many famous anarchists, including **Mikhail Bakunin, Élisée Reclus, and Errico Malatesta**. He also wrote a seven volume history of anarchism. He lived continuously in Amsterdam from 1938 where he worked on cataloging the archive for the Institute. ***He died there suddenly from stomach cancer in 1944, without ever being harassed.***
 
-Link to some of his papers: [https://theanarchistlibrary.org/category/author/max-nettlau](https://theanarchistlibrary.org/category/author/max-nettlau)
+→ Read some of his papers in the anarchist library [https://theanarchistlibrary.org/category/author/max-nettlau](https://theanarchistlibrary.org/category/author/max-nettlau)
 
 <a name="2.1.2"></a>
 ### Bakunin
@@ -129,163 +129,112 @@ In 1938, when the Anschluss took place in Austria, Nettlau happened to be in Ams
 
 After his death his private papers came to the IISH.
 
-Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
+→ Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
 
 
-<details><summary>The photo collection of Nettlau</summary>
+<details><summary>The photo collection of Nettlau from IISG</summary>
 
-    Max Nettlau himself death(1944):
-
-
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg)
+    Max Nettlau himself death (1944):
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944.jpeg" width="50%">
 
     Max himself alive:
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_s.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_aa.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_aa.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896_j.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896_s.jpeg" width="50%">
 
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_s.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_s.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_aa.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_aa.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896_j.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896_j.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896_s.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1896_s.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_.._Friedeberg-Straus.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_.._Friedeberg-Straus.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg_1936.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg_1936.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/In_Ascona._Friedeberg_(left)_with_Nettlau_and_his_physician_(right)..jpeg](Nettlaus%20ashes%20transcoding/In_Ascona._Friedeberg_(left)_with_Nettlau_and_his_physician_(right)..jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg_.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg_.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Max_Nettlau_en_Arthur_Lehning..jpeg](Nettlaus%20ashes%20transcoding/Max_Nettlau_en_Arthur_Lehning..jpeg)
+    Double portraits:
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_.._Friedeberg-Straus.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg_1936.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/In_Ascona._Friedeberg_(left)_with_Nettlau_and_his_physician_(right)..jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_R_Friedeberg_.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Max_Nettlau_en_Arthur_Lehning..jpeg" width="50%">
 
     Group portrait Hermann Nettlaua, Agnes Nettlau-Kast
-
-    ![Nettlaus%20ashes%20transcoding/Group_portrait_Hermann_Nettlau_Agnes_Nettlau-Kast.jpeg](Nettlaus%20ashes%20transcoding/Group_portrait_Hermann_Nettlau_Agnes_Nettlau-Kast.jpeg)
-
-    [Nettlaus%20ashes%20transcoding/From-_archive_Nettlau_2311._In_Barcelona_Parque_G20in20barcelona20parque20guell20from20right20to20left-20](Nettlaus%20ashes%20transcoding/From-_archive_Nettlau_2311._In_Barcelona_Parque_G20in20barcelona20parque20guell20from20right20to20left-20)
-
-    ![Nettlaus%20ashes%20transcoding/Group_portrait_Hermann_Nettlaua_Agnes_Nettlau-Kast.jpeg](Nettlaus%20ashes%20transcoding/Group_portrait_Hermann_Nettlaua_Agnes_Nettlau-Kast.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Hermann_Nettlau_Agnes_Nettlau-Kast_1864.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Hermann_Nettlau_Agnes_Nettlau-Kast_1864.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Group_portrait_Hermann_Nettlau_Agnes_Nettlau-Kast.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/From-_archive_Nettlau_2311._In_Barcelona_Parque_G20in20barcelona20parque20guell20from20right20to20left-20" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Group_portrait_Hermann_Nettlaua_Agnes_Nettlau-Kast.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Hermann_Nettlau_Agnes_Nettlau-Kast_1864.jpeg" width="50%">
 
     Group portrait Max Nettlau, Fritz Brupbacher ..
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher_....jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_Fritz_BrupbacherDouble_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg" width="50%">
 
-    ![Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher_....jpeg](Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher_....jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_Fritz_BrupbacherDouble_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_Fritz_BrupbacherDouble_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher_...jpeg](Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher_...jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg](Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg](Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher_...jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Group_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Double_portrait_Max_Nettlau_Fritz_Brupbacher.jpeg" width="50%">
 
     crazy times... In the middle with hat and beard Landauer before the prison in Starnberg May 1. From the correspondence of Raphael Friedeberg with Nettlau. 1919...
 
-    ![Nettlaus%20ashes%20transcoding/In_the_middle_with_hat_and_beard_Landauer_before_the_prison_in_Starnberg_May_1._From_the_correspondence_of_Raphael_Friedeberg_with_Nettlau._1919.jpeg](Nettlaus%20ashes%20transcoding/In_the_middle_with_hat_and_beard_Landauer_before_the_prison_in_Starnberg_May_1._From_the_correspondence_of_Raphael_Friedeberg_with_Nettlau._1919.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/In_the_middle_with_hat_and_beard_Landauer_before_the_prison_in_Starnberg_May_1._From_the_correspondence_of_Raphael_Friedeberg_with_Nettlau._1919.jpeg" width="50%">
 
      In Munich. With dedication from Anna Kohn to Nettlau. 1923
+     <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/In_Munich._With_dedication_from_Anna_Kohn_to_Nettlau._1923.jpeg" width="50%">
 
-    ![Nettlaus%20ashes%20transcoding/In_Munich._With_dedication_from_Anna_Kohn_to_Nettlau._1923.jpeg](Nettlaus%20ashes%20transcoding/In_Munich._With_dedication_from_Anna_Kohn_to_Nettlau._1923.jpeg)
-
-    This is very weird
 
     Portrait Hermann Nettlau 1872
 
-    ![Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879._.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879._.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1872.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1872.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879...jpeg](Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879...jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879._.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1872.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau_1879...jpeg" width="50%">
 
     Portrait Hermann Nettlau
 
-    ![Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Hermann_Nettlau.jpeg" width="50%">
 
     Portrait Agnes Nettlau-Kast
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Agnes_Nettlau-Kast.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/From_left_to_right-_unknown_Esgleas_Anguera_Erminda_Soledad_Nettlau_and_De_los_Reyes._Gustavo_Soledad_is_pseud._of_Teresa_Mane_y_Miravet._1932.jpeg" width="50%">
 
-    ![Nettlaus%20ashes%20transcoding/Portrait_Agnes_Nettlau-Kast.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Agnes_Nettlau-Kast.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/From_left_to_right-_unknown_Esgleas_Anguera_Erminda_Soledad_Nettlau_and_De_los_Reyes._Gustavo_Soledad_is_pseud._of_Teresa_Mane_y_Miravet._1932.jpeg](Nettlaus%20ashes%20transcoding/From_left_to_right-_unknown_Esgleas_Anguera_Erminda_Soledad_Nettlau_and_De_los_Reyes._Gustavo_Soledad_is_pseud._of_Teresa_Mane_y_Miravet._1932.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Urales_third_from_left_Montseny_next_to_him_Nettlau_second_from_right..jpeg](Nettlaus%20ashes%20transcoding/Urales_third_from_left_Montseny_next_to_him_Nettlau_second_from_right..jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Urales_third_from_left_Montseny_next_to_him_Nettlau_second_from_right..jpeg" width="50%">
 
     With moustache Siegfried Rosenfeld, sitting his wife, right Nettlau.
-
-    ![Nettlaus%20ashes%20transcoding/With_moustache_Siegfried_Rosenfeld_sitting_his_wife_right_Nettlau..jpeg](Nettlaus%20ashes%20transcoding/With_moustache_Siegfried_Rosenfeld_sitting_his_wife_right_Nettlau..jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/With_moustache_Siegfried_Rosenfeld_sitting_his_wife_right_Nettlau..jpeg" width="50%">
 
     Friends
-
-    ![Nettlaus%20ashes%20transcoding/From_left_to_right-_Louise_Zinia_Lucien_Max_and_Anne._1932.jpeg](Nettlaus%20ashes%20transcoding/From_left_to_right-_Louise_Zinia_Lucien_Max_and_Anne._1932.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/In_a_rowing_boat_at_London._One_of_the_persons_is_unknown._Dedication_from_Milano_to_Max_Nettlau_on_the_back._1895.jpeg](Nettlaus%20ashes%20transcoding/In_a_rowing_boat_at_London._One_of_the_persons_is_unknown._Dedication_from_Milano_to_Max_Nettlau_on_the_back._1895.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/From_left_to_right-_Nettlau_Anguera_Montseny_and_Urales._1928.jpeg](Nettlaus%20ashes%20transcoding/From_left_to_right-_Nettlau_Anguera_Montseny_and_Urales._1928.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/From_left_to_right-_Gori_Croce_Borghetti_Milano._Photo_made_in_the_prison_of_Lugano._Dedication_from_Milano_to_M._Nettlau._1895.jpeg](Nettlaus%20ashes%20transcoding/From_left_to_right-_Gori_Croce_Borghetti_Milano._Photo_made_in_the_prison_of_Lugano._Dedication_from_Milano_to_M._Nettlau._1895.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/From_left_to_right-_Louise_Zinia_Lucien_Max_and_Anne._1932.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/In_a_rowing_boat_at_London._One_of_the_persons_is_unknown._Dedication_from_Milano_to_Max_Nettlau_on_the_back._1895.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/From_left_to_right-_Nettlau_Anguera_Montseny_and_Urales._1928.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/From_left_to_right-_Gori_Croce_Borghetti_Milano._Photo_made_in_the_prison_of_Lugano._Dedication_from_Milano_to_M._Nettlau._1895.jpeg" width="50%">
 
     Max as kid
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872.jpeg](Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872.jpeg" width="50%">
 
     Max's group photos:
 
     Urales with glasses, Montseny with glasses, Nettlau right with beard. Playa Rovira, in San Felice de Guixols (Gerona). 1932
 
-    ![Nettlaus%20ashes%20transcoding/Urales_with_glasses_Montseny_with_glasses_Nettlau_right_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg](Nettlaus%20ashes%20transcoding/Urales_with_glasses_Montseny_with_glasses_Nettlau_right_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Urales_with_glasses_Montseny_with_glasses_Nettlau_right_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Urales_with_beard_and_glasses_Montseny_with_glasses_Nettlau_right_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932...jpeg" width="50%">
 
-    ![Nettlaus%20ashes%20transcoding/Urales_with_beard_and_glasses_Montseny_with_glasses_Nettlau_right_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932...jpeg](Nettlaus%20ashes%20transcoding/Urales_with_beard_and_glasses_Montseny_with_glasses_Nettlau_right_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932...jpeg)
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/In_the_center_Ramus._Photograph_from_the_correspondence_of_Ramus_with_Nettlau_1922_April_22..jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Max_Nettlaus_father_and_mother_with_some_of_their_friends..jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Urales_with_beard_and_glasses_upstairs_left_Montseny_next_to_Nettlau_Nettlau_left_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Urales_left_with_glasses_Montseny_centre_with_white_pullover_Nettlau_right_with_beard._In_San_Lorenzo_(Tarrasa)._1931.jpeg" width="50%">
 
-    ![Nettlaus%20ashes%20transcoding/In_the_center_Ramus._Photograph_from_the_correspondence_of_Ramus_with_Nettlau_1922_April_22..jpeg](Nettlaus%20ashes%20transcoding/In_the_center_Ramus._Photograph_from_the_correspondence_of_Ramus_with_Nettlau_1922_April_22..jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Max_Nettlaus_father_and_mother_with_some_of_their_friends..jpeg](Nettlaus%20ashes%20transcoding/Max_Nettlaus_father_and_mother_with_some_of_their_friends..jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Urales_with_beard_and_glasses_upstairs_left_Montseny_next_to_Nettlau_Nettlau_left_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg](Nettlaus%20ashes%20transcoding/Urales_with_beard_and_glasses_upstairs_left_Montseny_next_to_Nettlau_Nettlau_left_with_beard._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Urales_left_with_glasses_Montseny_centre_with_white_pullover_Nettlau_right_with_beard._In_San_Lorenzo_(Tarrasa)._1931.jpeg](Nettlaus%20ashes%20transcoding/Urales_left_with_glasses_Montseny_centre_with_white_pullover_Nettlau_right_with_beard._In_San_Lorenzo_(Tarrasa)._1931.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Nettlau_in_the_centre_with_beard_Montseny_right_behind_him._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg](Nettlaus%20ashes%20transcoding/Nettlau_in_the_centre_with_beard_Montseny_right_behind_him._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/Photo._1931.jpeg](Nettlaus%20ashes%20transcoding/Photo._1931.jpeg)
-
-    ![Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg](Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg)
-
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Nettlau_in_the_centre_with_beard_Montseny_right_behind_him._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Photo._1931.jpeg" width="50%">
+    <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg" width="50%">
 </details>_
 
 <a name="2.3"></a>
