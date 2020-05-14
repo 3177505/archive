@@ -439,75 +439,23 @@ This is just few separated examples, the final in outcomes.
   <summary>Click to expand!</summary>
 
   | | | |
-  |:-------------------------:|:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1980_2.png" width="50%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s_1_copy.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_s_2.png" width="50%">|
-
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_2.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_0.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_1.png" width="50%">
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_2.png" width="50%">
-
-
-
-
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_0.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_1.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_2.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_2.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_0.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_1.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_2.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_2.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_0.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_1.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_2.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_2.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_0.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_2.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_2.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_0.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_1.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png)
-
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1990_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Ernst_Nettlau_1872_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1890_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1928_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1930_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1934_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_sep_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936_2.png" width="50%">|
+    |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1936a_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_2.png" width="50%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_0.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_1.png" width="50%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png" width="50%">|
 </details>    
 
 - Two layers (without sorting)
