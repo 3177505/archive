@@ -560,7 +560,7 @@ Processing code, textEdit
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/1%201.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/1%201.jpg" width="100%"> width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg" width="100%">|
 
 </details>
 
@@ -589,10 +589,10 @@ To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fer
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/264571487.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/25510068.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/56480265.jpg" width="100%">|
-  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/79810378.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/100590515.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/113260576.jpg" width="100%">|
-  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/118540631.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/123440621.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/157210863.jpg" width="100%">|
-  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/167150939.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/179500981.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/217851195.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/264571487.jpg" width="100%"> width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/25510068.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/56480265.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/79810378.jpg" width="100%"> width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/100590515.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/113260576.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/118540631.jpg" width="100%"> width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/123440621.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/157210863.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/167150939.jpg" width="100%"> width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/179500981.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/217851195.jpg" width="100%">|
 
 </details>
 
@@ -626,18 +626,6 @@ Displaying the transition of the images before and after to retell the story of 
 
 Premiere pro
 
-### Results
-
-
-<details>
-  <summary>Video sketches</summary>
-
-  src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" width="100%"> width="100%">
-  <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j.mp4"
-  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/N.mp4" width="100%">
-
-</details>
-
 
 <a name="3.6"></a>
 ## Transcoding Tools
@@ -655,185 +643,31 @@ The aim is to spread the information to be able to scatter him. Same as the ash,
 
 ### Methods
 
-Using Blob: A Binary Large OBject a collection of binary data stored as a single entity in a database management system. Blobs are typically images, audio or other multimedia objects, though sometimes binary executable code is stored as a blob. Database support for blobs is not universal.
-
-HOW TO MAKE IT RANDOM AND CONNECT IT WITH THE DATABASE ASK ON MONDAY
-
-- Code to download:
-
+Part of the js code:
 
     ```jsx
-    function download(filename, text) {
-      var element = document.createElement('a');
-      element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
-      element.setAttribute('download', filename);
-
-      element.style.display = 'none';
-      document.body.appendChild(element);
-
-      element.click();
-
-      document.body.removeChild(element);
+    const downloadFile = function(uri, name) {
+        var link = document.createElement("button");
+        link.type = 'button';
+        link.onclick = window.open(uri);
+        link.click();
     }
 
-    // Start file download.
-    document.getElementById("dwn-btn").addEventListener("click", function(){
-    // Start the download of yournewfile.txt file with the content from the text area
-        var text = document.getElementById("text-val").value;
-        var filename = "yournewfile.txt";
-
-        download(filename, text);
-    }, false);
+    downloadFile(downloadFiles[Math.ceil(Math.random() * downloadFiles.length)], "1");
     ```
 
 ### Results
 
-STILL IN PROCESS
+→ Have a look on the website and get a piece of Nettlau
 
 [http://tereznovak.online/Nettlau.html](http://tereznovak.online/Nettlau.html)
 
-- Html code:
-
-    ```jsx
-    <!DOCTYPE html>
-    <html lang="en">
-    	<head>
-        <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-
-    		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
-    		<meta property="og:title" content="give-and-take.download">
-    		<meta property="og:site_name" content="give-and-take.download">
-    		<meta property="og:url" content="https://give-and-take.download">
-    		<meta property="og:type" content="website">
-
-    		<title>Digital Scattering Nettlaus Ashes</title>
-
-        <link href="css.css" rel="stylesheet" />
-        <link href="numbers.css" rel="stylesheet" />
-        <link href="text.css" rel="stylesheet" />
-        <link rel="stylesheet" href="index.css" />
-        <link rel="stylesheet" href="Nettlau.css" />
-
-    		<style>
-    		@font-face {
-    		  font-family: "nett";
-    		  src: url("font/nettlaumax-Regular.ttf");
-    		}
-
-    			html, body {
-    				width: 100%;
-    				height: auto;
-    				margin: 0;
-    				padding: 0;
-    				background-image: url("images/nett1.jpg");
-    				background-size: cover;
-
-            /* background-color: black;
-            color:white; */
-    			}
-
-    			* {
-    				box-sizing: border-box;
-    			}
-
-    			form {
-    				display: none;
-    			}
-
-    			#content {
-            font-family: "nett";
-    				width: 95%;
-    				height: 100%;
-            padding-left:7.5%;
-    				display: flex;
-    				align-items: center;
-    				justify-content: center;
-    				flex-direction: column;
-    				font-size: 3.5em;
-
-    			}
-
-    			#content div {
-    				margin: 2%;
-    				text-align: center;
-    			}
-
-    			#button {
-    				text-decoration: underline;
-    				cursor: pointer;
-    			}
-
-          .back{
-            margin:1%;
-          }
-
-    			@media (max-width: 1000px) {
-    				body {
-    					padding: 10px;
-    				}
-
-    				#content {
-    					display: unset;
-              font-size: 1.5em;
-    				}
-
-    				#content div {
-    					text-align: unset;
-    					margin-bottom: 1em;
-    				}
-
-    			}
-    		</style>
-    	</head>
-    	<body>
-
-        <div class="back">
-            <a href="index.html">back to portfolio</a>
-        </div>
-
-    		<form action="/upload" method="post" enctype="multipart/form-data">
-    			<input type="file" name="mystery-file">
-    		</form>
-
-    		<div id="content">
-    			<div id="button">CLICK HERE TO GET A PIECE OF MAX NETTLAU</div>
-    			<div>TRANSCODED HUMAN ASH INTO THE DIGITAL PIECES, SCATTERED LIFE STORY OF ANARCHIST TRAPPED IN THE ARCHIVE.</div>
-    			<div></div>
-    		</div>
-
-        <!-- <div class="last1">
-          © 2020 All rights reserved, Last Update: 13.04.2020, designed & developed by Tereza Nováková
-        </div> -->
-
-    		<script src="nettlau.js"></script>
-    	</body>
-    </html>
-    ```
-
-- JS code:
-
-    ```jsx
-    var canvas = document.getElementById("my-canvas");
-    var ctx = canvas.getContext("2d");
-    var pixel_size = 1;
-
-    function draw() {
-        console.log("draw");
-
-        canvas.toBlob(function(blob) {
-          saveAs(blob, 'mypng.png');
-        });
-    }
-    window.requestAnimationFrame(draw);
-    ```
-
 ### Source Links
 
-Blob: [https://stackoverflow.com/questions/40137880/save-video-blob-to-filesystem-electron-node-js](https://stackoverflow.com/questions/40137880/save-video-blob-to-filesystem-electron-node-js)
+→ Dowload file Method: [https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.devices.network.downloadfile?view=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.devices.network.downloadfile?view=netframework-4.8)
 
-Give and take: [https://give-and-take.download/](https://give-and-take.download/)
+→ Give and take - first inspiration:
+ [https://give-and-take.download/](https://give-and-take.download/)
 
 <a name="3.6.2"></a>
 ### Processing code
