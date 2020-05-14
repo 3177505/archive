@@ -687,8 +687,8 @@ Using Pixel sorting and blending data code.
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/PixelSorting" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png" width="100%">|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.58.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/124670002.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/124670002.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.58.png" width="100%"> | 
 
 </details>
 
@@ -725,7 +725,7 @@ Using Pixel sorting and blending data code.
 
 
 <details>
-  <summary>Research sorting</summary>
+  <summary>Research sorting first sketches</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -735,7 +735,7 @@ Using Pixel sorting and blending data code.
 </details>
 
 <details>
-  <summary>Put together</summary>
+  <summary>Combined codes sketches</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
