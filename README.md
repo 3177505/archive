@@ -320,18 +320,11 @@ Adopting image manipulation through Processing using the collected photographs. 
 <details>
   <summary>Part of the ASDF Pixel sorting code by Kim Asendorf</summary>
   <br />
-    ```jsx
-    /*
-     ASDF Pixel Sort
-     Kim Asendorf | 2010 | kimasendorf.com
-
      sorting modes
 
      0 = black
      1 = brightness
      2 = white
-
-     */
 
     int mode = 1;
 
@@ -393,10 +386,6 @@ The second code randomise the selection and combines two already sorted images.
   <summary>Part of the blending code</summary>
 
   <br />
-    ```jsx
-    java.io.File folder;
-    String[] filenames;
-    PImage[] imgs;
 
     void setup() {
       size(800, 800);
