@@ -2,30 +2,30 @@
 # Max Nettlau's ashes: DIGITAL SCATTERING
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](##Metadata)
-2. [Research](#Research)
-    1. [Nettlau's identity](##Nettlau'sidentity)
-        1. [Max](##Nettlau'sidentity)
-        2. [Bakunin](###Bakunin)
-        3. [The siskin](###Thesiskin)
-        4. [Timeline](###Timeline)
-    2. [IISG = Nettlau](##IISG=Nettlau)
-    3. [Afterlife](##Afterlife)
-    4. [Human ashes](##Humanashes)
-        1. [Chemical composition](###Chemicalcomposition)
-3. [Transcoding](#Transcoding)
-    1. [No. 1](#Transcoding-no-1) Images as fragments
-    2. [No. 2](#Transcoding-no-2) Words hidden in images
-    3. [No. 3](#Transcoding-no-3) Chemical encoding
-    4. [No. 4](#Transcoding-no-4) Dialog from our meeting
-    5. [No. 5](#Transcoding-no-5) Videos as a memorial
-    6. [Transcoding Tool](#Transcoding-tool) No. 1
-    7. [Transcoding Tool](#Transcoding-tool) No. 2
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+1. [Artefact](#artefact)
+    1. [Metadata](##metadata)
+2. [Research](#research)
+    1. [Nettlau's identity](##nettlau'-sidentity)
+        1. [Max](##nettlau's-identity)
+        2. [Bakunin](###bakunin)
+        3. [The siskin](###thesiskin)
+        4. [Timeline](###timeline)
+    2. [IISG = Nettlau](##iisg=Nettlau)
+    3. [Afterlife](##afterlife)
+    4. [Human ashes](##humanashes)
+        1. [Chemical composition](###chemical-composition)
+3. [Transcoding](#transcoding)
+    1. [No. 1](#transcoding-no-1) Images as fragments
+    2. [No. 2](#transcoding-no-2) Words hidden in images
+    3. [No. 3](#transcoding-no-3) Chemical encoding
+    4. [No. 4](#transcoding-no-4) Dialog from our meeting
+    5. [No. 5](#transcoding-no-5) Videos as a memorial
+    6. [Transcoding Tool](#transcoding-tool) No. 1
+    7. [Transcoding Tool](#transcoding-tool) No. 2
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
 # Artefact
 
