@@ -682,157 +682,69 @@ Create a tool which is pleasant work with to be able to manipulate the images.
 
 Using Pixel sorting and blending data code.
 
-- Research sorting:
+<details>
+  <summary>Research sorting</summary>
+
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/PixelSorting" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.58.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/124670002.jpg" width="100%">|
+
+</details>
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Part of the used code by Jeff Thompson</summary>
 
-    ![Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png](Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.50.png)
+  ```jsx
+  String filename = "Portrait.jpeg";
+  boolean saveIt = false;
+  boolean saveAll = true;
+  int numPx = 5;
+  PImage img;
 
-    [jeffThompson/PixelSorting](https://github.com/jeffThompson/PixelSorting)
 
-    ![Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png](Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.37.png)
+  // strip file extension for saving and renaming
+  String stripFileExtension(String s) {
+  s = s.substring(s.lastIndexOf('/')+1, s.length());
+  s = s.substring(s.lastIndexOf('\\')+1, s.length());
+  s = s.substring(0, s.lastIndexOf('.'));
+  return s;
+  }
 
-    ![Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png](Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.36.59.png)
+  void sortNpx(int numPx) {
+  img.loadPixels();
+  for (int i=0; i<img.pixels.length-numPx; i+=numPx) {
+  color[] c = new color[numPx];
+  for (int j=0; j<numPx; j++) {
+  c[j] += img.pixels[i+j];
+  }
+  c = sort(c);
+  ```
+</details>
 
-    ![Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.58.png](Nettlaus%20ashes%20transcoding/Screen_Shot_2020-03-23_at_11.37.58.png)
 
-    ![Nettlaus%20ashes%20transcoding/124670002.jpg](Nettlaus%20ashes%20transcoding/124670002.jpg)
 
-    different example - kinda same result
+<details>
+  <summary>Research sorting</summary>
 
-    ```jsx
-    /*
-    SORT IMAGE BY N PIXEL SEGMENTS
-    Jeff Thompson | 2012 | [www.jeffreythompson.org](http://www.jeffreythompson.org/)
-    ```
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_1%201.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_0.png" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/net_0.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/net_1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/net_2.png" width="100%">|
 
-    ```jsx
-    Loads an image and sorts pixels in chunks of N pixels. Wraps
-    pixels across image.
-    ```
+</details>
 
-    ```jsx
-    */
-    ```
+<details>
+  <summary>Put together</summary>
 
-    ```jsx
-    String filename = "Portrait.jpeg";
-    boolean saveIt = false;
-    boolean saveAll = true;
-    int numPx = 5;
-    PImage img;
-    ```
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy_2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002_copy.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004_copy.jpg" width="100%"> | |
 
-    ```jsx
-    void setup() {
-    ```
+</details>
 
-    ```jsx
-    img = loadImage(filename);
-    img.resize(width, 0);
-    size(500, 700);
-    image(img, 0,0);
-    }
-    ```
 
-    ```jsx
-    void draw() {
-    ```
-
-    ```jsx
-    if (saveAll) {
-    println("Saving lots of tacos...");
-    for (int i=2; i<2000; i++) {
-    println(" " + i);
-    img = loadImage("124670002.jpg");
-    sortNpx(i);
-    image(img, 0, 0);
-    save("200Tacos/" + nf(i, 4) + ".png");
-    }
-    println("DONE!");
-    exit();
-    }
-    else {
-    sortNpx(numPx);
-    image(img, 0, 0);
-    }
-    }
-    ```
-
-    ```jsx
-    // strip file extension for saving and renaming
-    String stripFileExtension(String s) {
-    s = s.substring(s.lastIndexOf('/')+1, s.length());
-    s = s.substring(s.lastIndexOf('\\')+1, s.length());
-    s = s.substring(0, s.lastIndexOf('.'));
-    return s;
-    }
-    ```
-
-    ```jsx
-    void mouseDragged() {
-    img = loadImage("net.jpeg");
-    img.resize(width, 0);
-    numPx = int(map(mouseX, 0, width, 5, 100));
-    }
-    ```
-
-    ```jsx
-    void mouseReleased() {
-    if (saveIt) {
-    filename = stripFileExtension(filename);
-    save("results/SortNpx_" + filename + "_" + numPx + ".tiff");
-    }
-    }
-    ```
-
-    ```jsx
-    void sortNpx(int numPx) {
-    img.loadPixels();
-    for (int i=0; i<img.pixels.length-numPx; i+=numPx) {
-    color[] c = new color[numPx];
-    for (int j=0; j<numPx; j++) {
-    c[j] += img.pixels[i+j];
-    }
-    c = sort(c);
-    ```
-
-    ```
-    for (int j=0; j<numPx; j++) {
-      img.pixels[i+j] = c[j];
-    }
-    ```
-
-    ```jsx
-    }
-    img.updatePixels();
-    }
-    ```
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_1.png](Nettlaus%20ashes%20transcoding/Portrait_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_1%201.png](Nettlaus%20ashes%20transcoding/Portrait_1%201.png)
-
-    ![Nettlaus%20ashes%20transcoding/Portrait_0.png](Nettlaus%20ashes%20transcoding/Portrait_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/net_0.png](Nettlaus%20ashes%20transcoding/net_0.png)
-
-    ![Nettlaus%20ashes%20transcoding/net_1.png](Nettlaus%20ashes%20transcoding/net_1.png)
-
-    ![Nettlaus%20ashes%20transcoding/net_2.png](Nettlaus%20ashes%20transcoding/net_2.png)
-
-    putting together >>
-
-    ![Nettlaus%20ashes%20transcoding/001_copy_2.jpg](Nettlaus%20ashes%20transcoding/001_copy_2.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/001_copy.jpg](Nettlaus%20ashes%20transcoding/001_copy.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/002_copy.jpg](Nettlaus%20ashes%20transcoding/002_copy.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/002%202.jpg](Nettlaus%20ashes%20transcoding/002%202.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/004_copy.jpg](Nettlaus%20ashes%20transcoding/004_copy.jpg)
 
     ```jsx
     PImage img;
