@@ -127,7 +127,6 @@ The First World War and the inflation that followed nearly reduced Nettlau to pe
 
 In 1938, when the Anschluss took place in Austria, Nettlau happened to be in Amsterdam and he decided to stay there. **He was pleased to work on describing his own collection and other relevant archives.** The Nettlau collection filled three large classrooms at the IISH. Sadly, though, he had to witness the occupation of the Institute and the transport of his collection by the Nazis to the East. **He did not live to see the return of his papers after the war, as he died on 23 July 1944.**
 
-After his death his private papers came to the IISH.
 
 → Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
 
@@ -238,7 +237,9 @@ Urales with glasses, Montseny with glasses, Nettlau right with beard. Playa Rovi
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Nettlau_in_the_centre_with_beard_Montseny_right_behind_him._Playa_Rovira_in_San_Felice_de_Guixols_(Gerona)._1932.jpeg" width="50%">
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Photo._1931.jpeg" width="50%">
 <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg" width="50%">
-</details>_
+</details>
+
+After his death his private papers came to the IISH_
 
 <a name="2.3"></a>
 # Afterlife
@@ -251,7 +252,7 @@ many cultures, death is perceived as a transition from one state of being to
 another, an intermediary stage in the endless process of transformations and
 alterations.
 
-Source: [https://www.folklore.ee/folklore/vol37/burial.pdf](https://www.folklore.ee/folklore/vol37/burial.pdf)
+→ Source: [https://www.folklore.ee/folklore/vol37/burial.pdf](https://www.folklore.ee/folklore/vol37/burial.pdf)
 
 Later in my research I started to look at him as he would be alive in the archive.
 
@@ -267,6 +268,9 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 <a name="2.4.1"></a>
 ### Chemical composition
 
+
+<details>
+  <summary>Everyday life examples of chemical component</summary>
 | Chemical component | **Everyday life xamples** |  
 |--|--|
 | **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
@@ -291,7 +295,7 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 | **Vanadium 0.0002%** | production comes from magnetite.*
 | **Beryllium <0.0001%** | ?
 | **Mercury <0.00001%** | rocks
-
+</details>
 <a name="3"></a>
 # Transcoding
 
