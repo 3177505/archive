@@ -268,10 +268,6 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 <a name="2.4.1"></a>
 ### Chemical composition
 
-
-<details>
-  <summary>Everyday life examples of chemical component</summary>
-  <br />
 | Chemical component | **Everyday life xamples** |  
 |--|--|
 | **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
@@ -296,9 +292,6 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 | **Vanadium 0.0002%** | production comes from magnetite.*
 | **Beryllium <0.0001%** | ?
 | **Mercury <0.00001%** | rocks
-<br />
-</details>
-
 
 <a name="3"></a>
 # Transcoding
@@ -324,8 +317,9 @@ Combining and sorting his photographs to images as a symbol of ashes to scatter 
 
 Adopting image manipulation through Processing using the collected photographs. Specifically using two codes, the first one to apply pixel sorting which visualizes the scattering and touches more the mood of something disappearing, going away.
 
-- Pixel sorting code:
-
+<details>
+  <summary>Part of the ASDF Pixel sorting code by Kim Asendorf</summary>
+  <br />
     ```jsx
     /*
      ASDF Pixel Sort
@@ -391,292 +385,14 @@ Adopting image manipulation through Processing using the collected photographs. 
         row++;
         img.updatePixels();
       }
-
-      // load updated image onto surface and scale to fit the display width,height
-      image(img, 0, 0, width, height);
-
-      if(!saved && frameCount >= loops) {
-
-      // save img
-        img.save(imgFileName+"_"+mode+".png");
-
-        saved = true;
-        println("Saved "+frameCount+" Frame(s)");
-
-        // exiting here can interrupt file save, wait for user to trigger exit
-        println("Click or press any key to exit...");
-      }
-    }
-
-    void keyPressed() {
-      if(saved)
-      {
-        System.exit(0);
-      }
-    }
-
-    void mouseClicked() {
-      if(saved)
-      {
-        System.exit(0);
-      }
-    }
-
-    void sortRow() {
-      // current row
-      int y = row;
-
-      // where to start sorting
-      int x = 0;
-
-      // where to stop sorting
-      int xend = 0;
-
-      while(xend < img.width-1) {
-        switch(mode) {
-          case 0:
-            x = getFirstNotBlackX(x, y);
-            xend = getNextBlackX(x, y);
-            break;
-          case 1:
-            x = getFirstBrightX(x, y);
-            xend = getNextDarkX(x, y);
-            break;
-          case 2:
-            x = getFirstNotWhiteX(x, y);
-            xend = getNextWhiteX(x, y);
-            break;
-          default:
-            break;
-        }
-
-        if(x < 0) break;
-
-        int sortLength = xend-x;
-
-        color[] unsorted = new color[sortLength];
-        color[] sorted = new color[sortLength];
-
-        for(int i=0; i<sortLength; i++) {
-          unsorted[i] = img.pixels[x + i + y * img.width];
-        }
-
-        sorted = sort(unsorted);
-
-        for(int i=0; i<sortLength; i++) {
-          img.pixels[x + i + y * img.width] = sorted[i];      
-        }
-
-        x = xend+1;
-      }
-    }
-
-    void sortColumn() {
-      // current column
-      int x = column;
-
-      // where to start sorting
-      int y = 0;
-
-      // where to stop sorting
-      int yend = 0;
-
-      while(yend < img.height-1) {
-        switch(mode) {
-          case 0:
-            y = getFirstNotBlackY(x, y);
-            yend = getNextBlackY(x, y);
-            break;
-          case 1:
-            y = getFirstBrightY(x, y);
-            yend = getNextDarkY(x, y);
-            break;
-          case 2:
-            y = getFirstNotWhiteY(x, y);
-            yend = getNextWhiteY(x, y);
-            break;
-          default:
-            break;
-        }
-
-        if(y < 0) break;
-
-        int sortLength = yend-y;
-
-        color[] unsorted = new color[sortLength];
-        color[] sorted = new color[sortLength];
-
-        for(int i=0; i<sortLength; i++) {
-          unsorted[i] = img.pixels[x + (y+i) * img.width];
-        }
-
-        sorted = sort(unsorted);
-
-        for(int i=0; i<sortLength; i++) {
-          img.pixels[x + (y+i) * img.width] = sorted[i];
-        }
-
-        y = yend+1;
-      }
-    }
-
-    // black x
-    int getFirstNotBlackX(int x, int y) {
-
-      while(img.pixels[x + y * img.width] < blackValue) {
-        x++;
-        if(x >= img.width)
-          return -1;
-      }
-
-      return x;
-    }
-
-    int getNextBlackX(int x, int y) {
-      x++;
-
-      while(img.pixels[x + y * img.width] > blackValue) {
-        x++;
-        if(x >= img.width)
-          return img.width-1;
-      }
-
-      return x-1;
-    }
-
-    // brightness x
-    int getFirstBrightX(int x, int y) {
-
-      while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-        x++;
-        if(x >= img.width)
-          return -1;
-      }
-
-      return x;
-    }
-
-    int getNextDarkX(int _x, int _y) {
-      int x = _x+1;
-      int y = _y;
-
-      while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-        x++;
-        if(x >= img.width) return img.width-1;
-      }
-      return x-1;
-    }
-
-    // white x
-    int getFirstNotWhiteX(int x, int y) {
-
-      while(img.pixels[x + y * img.width] > whiteValue) {
-        x++;
-        if(x >= img.width)
-          return -1;
-      }
-      return x;
-    }
-
-    int getNextWhiteX(int x, int y) {
-      x++;
-
-      while(img.pixels[x + y * img.width] < whiteValue) {
-        x++;
-        if(x >= img.width)
-          return img.width-1;
-      }
-      return x-1;
-    }
-
-    // black y
-    int getFirstNotBlackY(int x, int y) {
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] < blackValue) {
-          y++;
-          if(y >= img.height)
-            return -1;
-        }
-      }
-
-      return y;
-    }
-
-    int getNextBlackY(int x, int y) {
-      y++;
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] > blackValue) {
-          y++;
-          if(y >= img.height)
-            return img.height-1;
-        }
-      }
-
-      return y-1;
-    }
-
-    // brightness y
-    int getFirstBrightY(int x, int y) {
-
-      if(y < img.height) {
-        while(brightness(img.pixels[x + y * img.width]) < brightnessValue) {
-          y++;
-          if(y >= img.height)
-            return -1;
-        }
-      }
-
-      return y;
-    }
-
-    int getNextDarkY(int x, int y) {
-      y++;
-
-      if(y < img.height) {
-        while(brightness(img.pixels[x + y * img.width]) > brightnessValue) {
-          y++;
-          if(y >= img.height)
-            return img.height-1;
-        }
-      }
-      return y-1;
-    }
-
-    // white y
-    int getFirstNotWhiteY(int x, int y) {
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] > whiteValue) {
-          y++;
-          if(y >= img.height)
-            return -1;
-        }
-      }
-
-      return y;
-    }
-
-    int getNextWhiteY(int x, int y) {
-      y++;
-
-      if(y < img.height) {
-        while(img.pixels[x + y * img.width] < whiteValue) {
-          y++;
-          if(y >= img.height)
-            return img.height-1;
-        }
-      }
-
-      return y-1;
-    }
-    ```
+    <br />
+    </details>
 
 The second code randomise the selection and combines two already sorted images.
 
-- Blending data code:
-
+<details>
+  <summary>Part of the blending code</summary>
+  <br />
     ```jsx
     java.io.File folder;
     String[] filenames;
@@ -715,52 +431,8 @@ The second code randomise the selection and combines two already sorted images.
       saveFrame("###.jpg");
     }
 
-    // Custom function which takes two parameters of type 'PImage'
-      void blendImages(PImage img0, PImage img1) {
-        for (int i = 0; i < width; i++) {
-          for (int j = 0; j < height; j++) {
-            // Create temporary variables x and y (we could also just use i and j)
-            int x = i;
-            int y = j;
-            // Create variable of type color and set to black
-            color col = color(0);
-            // Create two variables of type color which contain the current pixel color value
-            color c0 = img0.get(x, y);
-            color c1 = img1.get(x, y);
-
-
-            // Decide what value the variable 'col' should be
-            if (brightness(c0) > brightness(c1)) {
-              col = c0;
-            } else {
-              col = c1;
-            }
-
-            // Set the pixel at position x, y to the value of color variable 'col'
-            set(x, y, col);
-          }
-        }
-      }
-
-    // Using a different technique to blend images
-    // Note: two function can not have the same name!
-
-    //void blendImages(PImage a, PImage b) {
-    //  image(a, 0, 0);
-    //  blend(b, 0, 0, width, height, 0, 0, width, height, SCREEN);
-    //  filter(BLUR, 3);
-    //  //filter(INVERT);
-    //  //filter(POSTERIZE, 3);
-    //  //filter(INVERT);
-    //}
-
-    // Optional: save the frame when you press a key, in this case the spacebar
-    void keyPressed() {
-      if (key == ' ') {
-        saveFrame(millis() + "####.jpg");
-      }
-    }
-    ```
+    <br />
+    </details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
