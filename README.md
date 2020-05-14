@@ -535,24 +535,22 @@ Processing code, textEdit
 <details>
   <summary>YΩ˘≈ˇzÛÌˇ—ÍÇ∑?M6≤,¯{x˜√È‰ëø‘áOGam√wÚ!⁄®;i ;HÒx*π^„—Z.KÈˇ™</summary>
 
-  | | | |
-  |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a1.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a3.jpg" width="100%">|
-  
+  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a1.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a2.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a3.jpg" width="100%">
+
 </details>
 
 
-
-- Visual examples:
 <details>
-  <summary>Click to expand!</summary>
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg)
+  <summary>Visuals containing paragraphs from Nettlau's papers</summary>
 
-    ![Nettlaus%20ashes%20transcoding/1%201.jpg](Nettlaus%20ashes%20transcoding/1%201.jpg)
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1903.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/1%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg" width="100%">|
 
-    ![Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg](Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_19031.jpg)
+</details>
 
-</details>    
 
 <a name="3.3"></a>
 ## Transcoding No. 3
