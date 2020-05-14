@@ -585,34 +585,16 @@ Adobe package + if using the images from first sorting then also Processing
 
 To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fertilizer, sea salt, clay, aluminum foil, magnesium pill, drop of blood, inside of batteries, dry paint, rat poison (poison in general), polish for metal*
 
-- First sorting examples:
 <details>
-  <summary>Click to expand!</summary>
-    ![Nettlaus%20ashes%20transcoding/264571487.jpg](Nettlaus%20ashes%20transcoding/264571487.jpg)
+  <summary>First sorting</summary>
 
-    ![Nettlaus%20ashes%20transcoding/25510068.jpg](Nettlaus%20ashes%20transcoding/25510068.jpg)
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/264571487.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/25510068.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/56480265.jpg" width="100%">|
+  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/79810378.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/100590515.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/113260576.jpg" width="100%">|
+  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/118540631.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/123440621.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/157210863.jpg" width="100%">|
+  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/167150939.jpg" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/179500981.jpg" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/217851195.jpg" width="100%">|
 
-    ![Nettlaus%20ashes%20transcoding/56480265.jpg](Nettlaus%20ashes%20transcoding/56480265.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/79810378.jpg](Nettlaus%20ashes%20transcoding/79810378.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/100590515.jpg](Nettlaus%20ashes%20transcoding/100590515.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/113260576.jpg](Nettlaus%20ashes%20transcoding/113260576.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/118540631.jpg](Nettlaus%20ashes%20transcoding/118540631.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/123440621.jpg](Nettlaus%20ashes%20transcoding/123440621.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/157210863.jpg](Nettlaus%20ashes%20transcoding/157210863.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/167150939.jpg](Nettlaus%20ashes%20transcoding/167150939.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/179500981.jpg](Nettlaus%20ashes%20transcoding/179500981.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/217851195.jpg](Nettlaus%20ashes%20transcoding/217851195.jpg)
-
-    ![Nettlaus%20ashes%20transcoding/280811599.jpg](Nettlaus%20ashes%20transcoding/280811599.jpg)
 </details>
 
 <a name="3.4"></a>
@@ -626,13 +608,9 @@ A poem about escaping the archive. Imagine you meet a person who is trapped in a
 
 Rethinking the human interactions within the life situation. Constructing the identity just based on my own experience, and imagination. Very free approach, using sarcasm, metaphors, rhymes.
 
-### Tools
-
-Just writing
-
 ### Results
 
-Coming soon
+Soon on the website
 
 <a name="3.5"></a>
 ## Transcoding No. 5
@@ -651,16 +629,15 @@ Premiere pro
 
 ### Results
 
-- Videos sketches:
-
 <details>
-  <summary>Click to expand!</summary>
-    [Nettlaus%20ashes%20transcoding/j_1.mp4](Nettlaus%20ashes%20transcoding/j_1.mp4)
+  <summary>Video sketches</summary>
 
-    [Nettlaus%20ashes%20transcoding/j.mp4](Nettlaus%20ashes%20transcoding/j.mp4)
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" width="100%"> width="100%"> | <img <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j.mp4" | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/N.mp4" width="100%">|
 
-    [Nettlaus%20ashes%20transcoding/N.mp4](Nettlaus%20ashes%20transcoding/N.mp4)
 </details>
+
 
 <a name="3.6"></a>
 ## Transcoding Tools
