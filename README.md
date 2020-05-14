@@ -267,6 +267,11 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 <a name="2.4.1"></a>
 ### Chemical composition
 
+<details>
+  <summary>Chomical components</summary>
+
+| | | |
+|:-------------------------:|:-------------------------:|
 | Chemical component | **Everyday life xamples** |  
 |--|--|
 | **Phosphate 47.5%** | baking powder, Fertilizer, glass, fireworks*
@@ -291,6 +296,8 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 | **Vanadium 0.0002%** | production comes from magnetite.*
 | **Beryllium <0.0001%** | ?
 | **Mercury <0.00001%** | rocks
+
+</details>
 
 <a name="3"></a>
 # Transcoding
@@ -453,7 +460,7 @@ First layer of the code
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_0.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1938_2.png" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_0.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_2.png" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_0.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_a_2.png" width="100%">|
-  
+
 </details>  
 
 <br />
