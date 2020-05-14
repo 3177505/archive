@@ -385,13 +385,13 @@ Adopting image manipulation through Processing using the collected photographs. 
         row++;
         img.updatePixels();
       }
-    <br />
-</details>
 
+</details>
 The second code randomise the selection and combines two already sorted images.
 
 <details>
   <summary>Part of the blending code</summary>
+
   <br />
     ```jsx
     java.io.File folder;
@@ -430,8 +430,8 @@ The second code randomise the selection and combines two already sorted images.
       // Optional: save frame
       saveFrame("###.jpg");
     }
-</details>
 
+</details>
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
 Various approach to code so I got really different results.
