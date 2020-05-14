@@ -4,28 +4,29 @@
 ### Table of Contents
 1. [Artefact](#1)
     1. [Metadata](#1.1)
-2. [Research](#research)
-    1. [Nettlau's identity](##nettlau'-sidentity)
-        1. [Max](##nettlau's-identity)
-        2. [Bakunin](###bakunin)
-        3. [The siskin](###thesiskin)
-        4. [Timeline](###timeline)
-    2. [IISG = Nettlau](##iisg=Nettlau)
-    3. [Afterlife](##afterlife)
-    4. [Human ashes](##humanashes)
-        1. [Chemical composition](###chemical-composition)
-3. [Transcoding](#transcoding)
-    1. [No. 1](##transcoding-no-1) Images as fragments
-    2. [No. 2](##transcoding-no-2) Words hidden in images
-    3. [No. 3](##transcoding-no-3) Chemical encoding
-    4. [No. 4](##transcoding-no-4) Dialog from our meeting
-    5. [No. 5](##transcoding-no-5) Videos as a memorial
-    6. [Transcoding Tool](##transcoding-tool) No. 1
-    7. [Transcoding Tool](##transcoding-tool) No. 2
-4. [Reflection](#reflection)
-5. [Outcome](#outcome)
-6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography)
+2. [Research](#2)
+    1. [Nettlau's identity](#2.1)
+        1. [Max](#2.1.1)
+        2. [Bakunin](#2.1.2)
+        3. [The siskin](#2.1.3)
+        4. [Timeline](#2.1.4)
+    2. [IISG = Nettlau](#2.2)
+    3. [Afterlife](#2.3)
+    4. [Human ashes](#2.4)
+        1. [Chemical composition](#2.4.1)
+3. [Transcoding](#3)
+    1. [1 Images as fragments](#3.1)
+    2. [2 Words hidden in images](#3.2) 
+    3. [3 Chemical encoding](#3.3) 
+    4. [4 Dialog from our meeting](#3.4)
+    5. [5 Videos as a memorial](#3.5)
+    6. [Transcoding Tool](#3.6)
+        1. [Processing](#3.6.1)
+        2. [Website](#3.6.2)
+4. [Reflection](#4)
+5. [Outcome](#5)
+6. [Conclusion](#6)
+7. [Bibliography](#7)
 
 <a name="1"></a>
 # Artefact
@@ -48,12 +49,18 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 | **Collector** | Nettlau, Max
 |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Untitled.png" width="50%">| Metal urn of round shape, contains the cremains of Max Nettlau.
 
-
+<a name="2"></a>
 # Research
 
 The reason why I chose to transcode this specific object, which is not always attractive for many people, starts with questioning the archive itself. At the beginning of my research at IISG, I was wondering if there is something by mistake, something that doesn't necessarily belong there. Because I couldn't question this by myself, I asked people who work there for advice and at that moment I got to Max Nettau.
 
+<a name="2.1"></a>
 ## Nettlau's identity
+
+basic description
+
+<a name="2.1.1"></a>
+## Max
 
 Max Heinrich Hermann Reinhardt Nettlau was a German anarchist and historian, born on **30 April 1865 in Neuwaldegg (Austria) in a well-to-do family**. He was also known as the *'Herodotus of Anarchy'*, the first and greatest historian of the anarchist movement. But Max Nettlau himself detested such honored accolades. Unlike the *Wichtigmacher*, he preferred the humble and marginal phenomena that are on the verge of disappearing. He wrote his PhD on **Celtic languages, Welsh** in particular, and as an amateur **bird-watcher,** he thoroughly researched the species of the tiny siskin.
 
@@ -63,10 +70,12 @@ In the 1890s realising that a generation of socialist and anarchist militants fr
 
 Link to some of his papers: [https://theanarchistlibrary.org/category/author/max-nettlau](https://theanarchistlibrary.org/category/author/max-nettlau)
 
+<a name="2.1.2"></a>
 ### Bakunin
 
 In 1892, a considerable inheritance enabled Nettlau to start research on the patriarch of anarchism, Michail Bakunin. He traveled throughout Europe to interview people who had known Bakunin (1814-1876) personally and to collect materials. This resulted in a three-volume biography (1896-1900) and many subsequent publications on Bakunin. Fifty copies of the biography were *'auto copied'* by Nettlau himself on the precursor of the mimeograph. He later described his Bakunin biography as a *'piece of furniture which I sent to some people's home address but they had no room for it ... I gave it as a present to libraries and the majority stocked it properly, but probably it has disappeared from the shelves, in some cases just as well...'* At the same time Nettlau compiled a *Bibliographie de l'Anarchie* (Brussels 1897). Another voluminous work of his, *Geschichte der Anarchie* [History of Anarchism] was published in phases: the three first volumes came out from 1925 to 1931, three others during the 1980s, and the remaining volumes have yet to be published. Characteristically, Nettlau did not bother to promote this work, which is still an authoritative history of anarchist ideas. Many smaller contributions by Nettlau were published, mainly in *Freedom*.
 
+<a name="2.1.3"></a>
 ### The siskin
 
 Max is also an amateur bird-watcher he thoroughly researched the species of the tiny siskin. His interest in the tiny siskin began to grow at the beginning of the twentieth century. Possibly there is a connection with the untimely death of his fiancée, Therese Bognar, in 1907. Only a small number of his friends knew about her. In general Nettlau hardly spoke about personal matters at all. From 1907 to 1920 he would write his diary in the form of letters to his deceased fiancée.
@@ -75,6 +84,7 @@ Back in the British Museum he scrutinized and inventoried the fifty species and 
 
 Nettlau hated training animals and he pitied timid circus lions equally with fleas in flea circuses. There is probably a parallel here in his rejection of Leninism and Stalinism, the hair-splitting and fanaticism among Marxists. Nettlau preferred to make people feel personally responsible in an ethical sense. 'Anyone who fails to liberate himself spiritually and morally can only expect to fall victim to submission one way or another.'
 
+<a name="2.1.4"></a>
 ### Timeline
 
 | Time | Data |  
@@ -107,6 +117,7 @@ Nettlau hated training animals and he pitied timid circus lions equally with fle
 | **1940:** | Began to write the last version of his memoirs. They totaled 6,000 pages and were never completed.
 | **July 23, 1944:** | Died suddenly in Amsterdam of cancer of the stomach.
 
+<a name="2.2"></a>
 ## IISG = Nettlau
 
 **The name of the International Institute of Social History (1935) very nearly was the 'Max Nettlau Institute'.** Most of all he collected documents on social history, preferably *not* the general surveys and monographs, but rather the handouts, pamphlets, bulletins, and papers from the social movements themselves. At the end of his life, Nettlau, with [his enormous collection of archives and printed materials](http://www.iisg.nl/archives/en/files/n/10765475.php), brought the Institute into blossom. His extensive collection or archives was sold to the [International Institute of Social History](https://en.wikipedia.org/wiki/International_Institute_of_Social_History) in [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) in 1935.
@@ -276,8 +287,9 @@ Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
 
     ![Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg](Nettlaus%20ashes%20transcoding/The_gardenerschool_of_the_Gartenbaugesellschaft._3th_until_5th_from_the_left-_Nettlau_father_Schirerhofer_and_Abel_1880.jpeg)
 
-</details>
+</details>_
 
+<a name="2.3"></a>
 # Afterlife
 
 The reason why Nettlau's ashes are in the IISG will stay unknown. First I have been told that he didn't have any close relatives anymore, so they weren't sure what to do with him and since he was so closely connected to archive, they archived him there together with the rest of his personal archive. But then I researched that his ashes were deposited at the IISH in the 1970s decades after his death, this might be connected to the politics and the complexity of this specific collection.
@@ -292,6 +304,7 @@ Source: [https://www.folklore.ee/folklore/vol37/burial.pdf](https://www.folklore
 
 Later in my research I started to look at him as he would be alive in the archive.
 
+<a name="2.4"></a>
 ## Human ashes
 
 An average human body takes from two to three hours to burn completely and will produce an average of **3 to 9 pounds of ash**. The amount of ash depends on the bone structure of the human body and not so much on their weight.
@@ -300,6 +313,7 @@ Cremation urn capacity is also measured in cubic inches. Most standard adult urn
 
 Cremation ashes are made of **crushed bone fragments.** The cremation process applies extreme heat (1500-1800 degrees Fahrenheit) to the decedent's body, incinerating everything except the bones. Once the cremation chamber cools down, the bones are removed from the retort and pulverized. The resulting material is sometimes called "ash" but in reality is more like a **coarse, pebbly sand.**
 
+<a name="2.4.1"></a>
 ### Chemical composition
 
 | Chemical component | **Everyday life xamples** |  
@@ -327,6 +341,7 @@ Cremation ashes are made of **crushed bone fragments.** The cremation process ap
 | **Beryllium <0.0001%** | ?
 | **Mercury <0.00001%** | rocks
 
+<a name="3"></a>
 # Transcoding
 
 When we rethink the meaning of archiving the real human remains in the institute, we could question the **necessity to keep him there**. In his honor and for his inner afterlife peace, I want to **recreate his identity through the pieces which I found in the archive**. I want to create for him the **digital archive of himself,** help him to get **scattered** somehow, and get **free** from the archive at least in the digital world. So I'm designing something like an **online library of the pieces** of his identity. I try to approach this topic in different ways, but using the same tools. **Capturing** his abstract existance and **collecting** small fragments together.
@@ -339,9 +354,10 @@ I was also considering the recreation of the ash itself, what would be more like
 
 In general, in the archive, the objects are becoming sacred, we are giving them **extra time to live, to be seen, to be remembered.** In fact his existence is extended (at this point almost 80 years), I want to go further to memorialize his character through **abstract storytelling. Retelling the same story different ways.**
 
-## Transcoding No.1
+<a name="3.1"></a>
+## Transcoding No.2
 
-### Images as fragments
+### 1 Images as fragments
 
 Combining and sorting his photographs to images as a symbol of ashes to scatter his remains, the using his extensive photo collection, including his personal photographs and shot of him even death. Can we visualize this character and recreate it from his remains? How would he look during the ceremony? As in real life, we can not see where the ashes are exactly on the ground, in the same way, I don't want to point at one direction, but more design this archive of images which can be translated as the act, the process of scattering. The meaning is more important than the object, so it's not fundamental to look at the images as to pieces which form one whole.
 
@@ -1103,6 +1119,7 @@ This is just few separated examples, the final in outcomes.
 
 </details>
 
+<a name="3.2"></a>
 ## Transcoding No.2
 
 ### Words hidden in images
