@@ -20,9 +20,9 @@
     3. [3 Chemical encoding](#3.3) 
     4. [4 Dialog from our meeting](#3.4)
     5. [5 Videos as a memorial](#3.5)
-    6. [Transcoding Tool](#3.6)
-        1. [Processing](#3.6.1)
-        2. [Website](#3.6.2)
+    6. [Transcoding tools](#3.6)
+        1. [Website invisible library](#3.6.1)
+        2. [Proccesing code](#3.6.2)
 4. [Reflection](#4)
 5. [Outcome](#5)
 6. [Conclusion](#6)
@@ -355,9 +355,9 @@ I was also considering the recreation of the ash itself, what would be more like
 In general, in the archive, the objects are becoming sacred, we are giving them **extra time to live, to be seen, to be remembered.** In fact his existence is extended (at this point almost 80 years), I want to go further to memorialize his character through **abstract storytelling. Retelling the same story different ways.**
 
 <a name="3.1"></a>
-## Transcoding No.2
+## Transcoding No. 1
 
-### 1 Images as fragments
+### Images as fragments
 
 Combining and sorting his photographs to images as a symbol of ashes to scatter his remains, the using his extensive photo collection, including his personal photographs and shot of him even death. Can we visualize this character and recreate it from his remains? How would he look during the ceremony? As in real life, we can not see where the ashes are exactly on the ground, in the same way, I don't want to point at one direction, but more design this archive of images which can be translated as the act, the process of scattering. The meaning is more important than the object, so it's not fundamental to look at the images as to pieces which form one whole.
 
@@ -1334,7 +1334,8 @@ Processing code, textEdit
 
 </details>    
 
-## Transcoding No.3
+<a name="3.3"></a>
+## Transcoding No. 3
 
 ### Chemical encoding
 
@@ -1382,7 +1383,8 @@ To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fer
     ![Nettlaus%20ashes%20transcoding/280811599.jpg](Nettlaus%20ashes%20transcoding/280811599.jpg)
 </details>
 
-## Transcoding No.4
+<a name="3.4"></a>
+## Transcoding No. 4
 
 ### Dialog from our meeting
 
@@ -1400,7 +1402,8 @@ Just writing
 
 Coming soon
 
-## Transcoding No.5
+<a name="3.5"></a>
+## Transcoding No. 5
 
 ### Videos as a memorial
 
@@ -1426,8 +1429,11 @@ Premiere pro
 
     [Nettlaus%20ashes%20transcoding/N.mp4](Nettlaus%20ashes%20transcoding/N.mp4)
 </details>
-## Transcoding Tool No.1
 
+<a name="3.6"></a>
+## Transcoding Tools
+
+<a name="3.6.1"></a>
 ### Website invisible library
 
 To be able to spread the pieces of Nettlau and scatter him digitally, I have decided to create a website where you can download the transcoded material. One by one, randomized and scattered, image library.
@@ -1620,8 +1626,7 @@ Blob: [https://stackoverflow.com/questions/40137880/save-video-blob-to-filesyste
 
 Give and take: [https://give-and-take.download/](https://give-and-take.download/)
 
-## Transcoding Tool No.2
-
+<a name="3.6.2"></a>
 ### Processing code
 
 The code is used mainly to visualised the process of digital scattering, representing his visual identity.
@@ -2788,18 +2793,22 @@ Please find it in outcomes >
 
 [http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/](http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/)[https://github.com/kimasendorf/ASDFPixelSort](https://github.com/kimasendorf/ASDFPixelSort)
 
+<a name="4"></a>
 # Reflection
 
 I really enjoyed the image manipulation and the way how I'm conveying the story within the limitations. A purely digital outcome that wasn't intended but then the concept evolved in such a way that it wouldn't make sense anymore. Rethinking the story narration and story telling.
 
+<a name="5"></a>
 # Outcomes
 
 [Bunch of outcomes](https://www.notion.so/Bunch-of-outcomes-4855c586c98e4970bdece6620c9d3d60)
 
+<a name="6"></a>
 # Conclusion
 
 -
 
+<a name="7"></a>
 ## Bibliography
 
 To be continued...
