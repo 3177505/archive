@@ -56,8 +56,7 @@ The reason why I chose to transcode this specific object, which is not always at
 
 <a name="2.1"></a>
 ## Nettlau's identity
-
-basic description
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_Max_Nettlau_1944_1.png" width="50%">
 
 <a name="2.1.1"></a>
 ## Max
