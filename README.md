@@ -386,7 +386,7 @@ Adopting image manipulation through Processing using the collected photographs. 
         img.updatePixels();
       }
     <br />
-    </details>
+</details>
 
 The second code randomise the selection and combines two already sorted images.
 
@@ -430,9 +430,7 @@ The second code randomise the selection and combines two already sorted images.
       // Optional: save frame
       saveFrame("###.jpg");
     }
-
-    <br />
-    </details>
+</details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
