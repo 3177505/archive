@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/3177505/archive/tree/test/Nettlaus%20ashes%20transcoding/Portrait_0.jpg" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_0.jpg" width="100%">](#)
 # Max Nettlau's ashes: DIGITAL SCATTERING
 
 ### Table of Contents
@@ -44,7 +44,7 @@ An urn containing Nettlau's ashes, the only object in the whole archive which re
 | **Subject, person** | Nettlau, Max
 | **Date** | 70s
 | **Collector** | Nettlau, Max
-|![Nettlaus%20ashes%20transcoding/Untitled.png](Nettlaus%20ashes%20transcoding/Untitled.png)| Metal urn of round shape, contains the cremains of Max Nettlau.
+|<img src="Documentation/img/Object.png" width="50%">| Metal urn of round shape, contains the cremains of Max Nettlau.
 
 
 # Research
