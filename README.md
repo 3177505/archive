@@ -647,6 +647,9 @@ The aim is to spread the information to be able to scatter him. Same as the ash,
 
 Part of the js code for first website:
 
+<details>
+  <summary>JS code</summary>
+
     ```jsx
     const downloadFile = function(uri, name) {
     var link = document.createElement("button");
@@ -658,7 +661,7 @@ Part of the js code for first website:
     downloadFile(downloadFiles[Math.ceil(Math.random() * downloadFiles.length)], "1");
 
     ```
-
+<br>
     ```jsx
     const downloadFiles = ["./Nettlaus ashes transcoding/1 1.jpg",
     "./Nettlaus ashes transcoding/001_copy_2.jpg",
@@ -678,6 +681,7 @@ Part of the js code for first website:
     "./Nettlaus ashes transcoding/0003.jpg"]
 
     ```
+</details>
 
 For the overview I used php (for the first time), I used it to be able just create grid with the pictures from the folder to make the html code easier:
 
@@ -707,7 +711,7 @@ Then I also used code by Mindshare Studios, see links.
 <details>
   <summary>Screenshots of the website</summary>
 
-  | | | |
+  | | |
   |:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s2.png" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s3.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s4.png" width="100%">|
