@@ -686,8 +686,9 @@ Part of the js code for first website:
 For the overview I used php (for the first time), I used it to be able just create grid with the pictures from the folder to make the html code easier:
 
 <details>
-  <summary>Part of the hp code</summary>
+  <summary>Part of the php code</summary>
 
+  ```jsx
   <ul>
   	<?php
   		$dirname = "Nettlaus ashes transcoding/";
@@ -701,6 +702,8 @@ For the overview I used php (for the first time), I used it to be able just crea
   		}
   	?>
   </ul>
+
+  ```
 
 </details>
 
