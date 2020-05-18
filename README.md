@@ -724,7 +724,7 @@ For the overview I used php (for the first time), I used it to be able just crea
 
 </details>
 
-Then I also used code by Mindshare Studios, see links.
+Then I also used code by Mindshare Studios, see links. The code reads the images from the folder and randomise them on grid, so if I want I can add some images with the time without changing the code.
 
 ### Results
 
