@@ -630,7 +630,7 @@ Premiere pro
 
 Video which represents the digital scattering and transformation of time and little fragments.
 
-[![Digital scattering](https://www.youtube.com/watch?v=7iq4sxi5Fic)
+[![](http://img.youtube.com/vi/7iq4sxi5Fic/0.jpg)](http://www.youtube.com/watch?v=7iq4sxi5Fic "")
 
 ## Transcoding Tools
 
