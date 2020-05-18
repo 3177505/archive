@@ -628,6 +628,16 @@ Premiere pro
 
 ### Results
 
+<details>
+  <summary>Screenshots from the video:</summary>
+
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m2.png" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m3.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m4.png" width="100%">|
+
+</details>
+
 → Youtube link with the video which represents the digital scattering and transformation of time and little fragments:
 
 [https://www.youtube.com/watch?v=7iq4sxi5Fic](https://www.youtube.com/watch?v=7iq4sxi5Fic)
