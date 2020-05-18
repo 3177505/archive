@@ -679,6 +679,29 @@ Part of the js code for first website:
 
     ```
 
+For the overview I used php (for the first time), I used it to be able just create grid with the pictures from the folder to make the html code easier:
+
+<details>
+  <summary>Part of the hp code</summary>
+
+  <ul>
+  	<?php
+  		$dirname = "Nettlaus ashes transcoding/";
+  		$images = scandir($dirname);
+  		shuffle($images);
+  		$ignore = array(".", "..");
+  		foreach($images as $curimg){
+  			if(!in_array($curimg, $ignore)) {
+  				echo "<li><a href=\"$dirname$curimg\"><img src='img.php?src=$dirname$curimg&w=300&zc=1' alt='' /></a></li>\n ";
+  			}
+  		}
+  	?>
+  </ul>
+
+</details>
+
+Then I also used code by Mindshare Studios, see links.
+
 ### Results
 
 <details>
@@ -706,6 +729,10 @@ Part of the js code for first website:
 
 → Give and take - first inspiration:
  [https://give-and-take.download/](https://give-and-take.download/)
+
+→ Php code
+  [https://github.com/mindsharestudios/mthumb](https://github.com/mindsharestudios/mthumb)
+
 
 <a name="3.6.2"></a>
 ### Processing code
