@@ -609,14 +609,14 @@ Rethinking the human interactions within the life situation. Constructing the id
 
 ### Results
 
-Soon on the website
+Experiencing the escape.
 
 <a name="3.5"></a>
 ## Transcoding No. 5
 
 ### Videos as a memorial
 
-Creating the short abstract videos of him transforming, as the symbol of finally getting peace and disappearing from the archive since he is finally feeling scattered, accompanied by the sounds of siskin because he was such a big fan of this bird.
+The short abstract video of him transforming, as the symbol of finally getting peace and disappearing from the archive since he is finally feeling scattered, accompanied by the sounds of siskin because he was such a big fan of this bird.
 
 ### Methods
 
@@ -628,17 +628,9 @@ Premiere pro
 
 ### Results
 
-!video[ title ](https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4){ size=10 }
+Video which represents the digital scattering and transformation of time and little fragments.
 
-
-| <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" width="100%">|
-
-![](https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4)
-
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" type="video/mp4">
-</video>
-<a name="3.6"></a>
+[![Digital scattering](https://youtu.be/7iq4sxi5Fic)](https://youtu.be/7iq4sxi5Fic)
 
 ## Transcoding Tools
 
