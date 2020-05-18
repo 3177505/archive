@@ -637,29 +637,59 @@ To be able to spread the pieces of Nettlau and scatter him digitally, I have dec
 
 (The library could be interpreted as a different world, where we can observe him **within time and place limitations.** Because I think it's impossible to capture the whole life of an individual I want to **scatter the information separately** **as a symbol of release and freedom**. If we would consider the religion and ethics we could say that he is locked and framed there, almost living his afterlife... )
 
+Since the visitor is seing only one picture I also coded one more website which is more like overview of **his digital ashes.**
+
 ### Aims
 
 The aim is to spread the information to be able to scatter him. Same as the ash, the library is formed by **small fragments**, which doesn't mean so much separately, but together it's one whole - his identity. Reconstruction of a person from small pieces of information or visuals.
 
 ### Methods
 
-Part of the js code:
+Part of the js code for first website:
 
     ```jsx
     const downloadFile = function(uri, name) {
-        var link = document.createElement("button");
-        link.type = 'button';
-        link.onclick = window.open(uri);
-        link.click();
+    var link = document.createElement("button");
+    link.type = 'button';
+    link.onclick = window.open(uri);
+    link.click();
     }
+
     downloadFile(downloadFiles[Math.ceil(Math.random() * downloadFiles.length)], "1");
+
     ```
+
+    ```jsx
+    const downloadFiles = ["./Nettlaus ashes transcoding/1 1.jpg",
+    "./Nettlaus ashes transcoding/001_copy_2.jpg",
+    "./Nettlaus ashes transcoding/001_copy.jpg",
+    "./Nettlaus ashes transcoding/1.jpg",
+    "./Nettlaus ashes transcoding/001.jpg",
+    "./Nettlaus ashes transcoding/0001.jpg",
+    "./Nettlaus ashes transcoding/002 1.jpg",
+    "./Nettlaus ashes transcoding/002 2.jpg",
+    "./Nettlaus ashes transcoding/002_copy.jpg",
+    "./Nettlaus ashes transcoding/2.jpg",       
+    "./Nettlaus ashes transcoding/002.jpg",
+    "./Nettlaus ashes transcoding/0002.jpg",
+    "./Nettlaus ashes transcoding/00002.jpg",
+    "./Nettlaus ashes transcoding/3.jpg",
+    "./Nettlaus ashes transcoding/003.jpg",
+    "./Nettlaus ashes transcoding/0003.jpg"]
+
+    ```
+
 
 ### Results
 
-→ Have a look on the website and get a piece of Nettlau
+→ Website where you can download a piece of Max Nettlau:
 
-[http://tereznovak.online/Nettlau.html](http://tereznovak.online/Nettlau.html)
+[http://tereznovak.online/Nettlau/maxnettlau.html](http://tereznovak.online/Nettlau/maxnettlau.html)
+
+→ Overview of digital ashes:
+
+[http://tereznovak.online/Nettlau/overview.php](http://tereznovak.online/Nettlau/overview.php)
+
 
 ### Source Links
 
@@ -924,10 +954,15 @@ I really enjoyed the image manipulation. A purely digital outcome that wasn't in
 <a name="5"></a>
 # Outcomes
 
-Website:
-[http://tereznovak.online/Nettlau.html](http://tereznovak.online/Nettlau.html)
+→ Have a look on the website and get a piece of Nettlau →
 
-Max's personal archive of his ashes:
+→ Website where you can download a piece of Max Nettlau:
+
+[http://tereznovak.online/Nettlau/maxnettlau.html](http://tereznovak.online/Nettlau/maxnettlau.html)
+
+→ Overview of digital ashes:
+
+[http://tereznovak.online/Nettlau/overview.php](http://tereznovak.online/Nettlau/overview.php)
 
 <a name="6"></a>
 # Conclusion
