@@ -628,9 +628,7 @@ Premiere pro
 
 ### Results
 
-Video which represents the digital scattering and transformation of time and little fragments.
-
-→ Website where you can download a piece of Max Nettlau:
+→ Youtube link with the video which represents the digital scattering and transformation of time and little fragments:
 
 [https://www.youtube.com/watch?v=7iq4sxi5Fic](https://www.youtube.com/watch?v=7iq4sxi5Fic)
 
@@ -1015,6 +1013,10 @@ I really enjoyed the image manipulation. A purely digital outcome that wasn't in
 → Overview of digital ashes:
 
 [http://tereznovak.online/Nettlau/overview.php](http://tereznovak.online/Nettlau/overview.php)
+
+→ Youtube link with the video which represents the digital scattering and transformation of time and little fragments.
+
+[https://www.youtube.com/watch?v=7iq4sxi5Fic](https://www.youtube.com/watch?v=7iq4sxi5Fic)
 
 <a name="6"></a>
 # Conclusion
