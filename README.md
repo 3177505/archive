@@ -626,6 +626,14 @@ Displaying the transition of the images before and after to retell the story of 
 
 Premiere pro
 
+### Results
+
+!video[ title ](https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4){ size=10 }
+
+
+| <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4" width="100%">|
+
+![](https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j_1.mp4)
 
 <a name="3.6"></a>
 ## Transcoding Tools
