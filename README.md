@@ -661,7 +661,7 @@ Part of the js code for first website:
     downloadFile(downloadFiles[Math.ceil(Math.random() * downloadFiles.length)], "1");
 
     ```
-<br>
+
     ```jsx
     const downloadFiles = ["./Nettlaus ashes transcoding/1 1.jpg",
     "./Nettlaus ashes transcoding/001_copy_2.jpg",
@@ -681,6 +681,7 @@ Part of the js code for first website:
     "./Nettlaus ashes transcoding/0003.jpg"]
 
     ```
+
 </details>
 
 For the overview I used php (for the first time), I used it to be able just create grid with the pictures from the folder to make the html code easier:
