@@ -679,8 +679,17 @@ Part of the js code for first website:
 
     ```
 
-
 ### Results
+
+<details>
+  <summary>Screenshots of the website</summary>
+
+  | | | |
+  |:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s2.png" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s3.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/s4.png" width="100%">|
+
+</details>
 
 → Website where you can download a piece of Max Nettlau:
 
