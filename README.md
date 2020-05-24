@@ -618,7 +618,6 @@ Experiencing the escape.
 
 The short abstract video of him transforming, as the symbol of finally getting peace and disappearing from the archive since he is finally feeling scattered, accompanied by the sounds of siskin because he was such a big fan of this bird.
 
-<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a1.gif" width="25%">
 
 ### Methods
 
@@ -630,13 +629,15 @@ Premiere pro
 
 ### Results
 
-<details>
-  <summary>Screenshots from the video:</summary>
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a3.gif" width="25%">
 
-  | | | |
-  |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m2.png" width="100%">|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m3.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/m4.png" width="100%">|
+<details>
+  <summary>More GIFs:</summary>
+
+  | | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a1.gif" width="25%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a2.gif" width="25%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a7.gif" width="25%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a8.gif" width="25%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a9.gif" width="25%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a4.gif" width="25%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a5.gif" width="25%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a6.gif" width="25%">|
 
 </details>
 
