@@ -439,6 +439,8 @@ Various approach to code so I got really different results.
 Processing code
 
 ### Results
+A few ashes here and the process follows under..
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a4.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a5.jpg" width="100%"> |
@@ -536,9 +538,12 @@ Last step adding color
 <a name="3.2"></a>
 ## Transcoding No.2
 
-### Words hidden in images
+### AHES II ASHES DUST II DUST
 
-Max Nettlau published during his life many papers, I went through a few of them and I selected text which seemed to be relevant. I want to find another way to tell a short story about Nettlau, for that I'm using the text inside of the abstract image. Basically it's something like extending the text format of the image, as another way of scattering his pieces. The visuals and the text influence each other, depend on each other and again making sense together more than separately. For example, can hide manifesto or part from anarchist paper.
+Hiding words in the images. Max Nettlau published during his life many papers, I went through a few of them and I selected text which seemed to be relevant. I want to find another way to tell a short story about Nettlau, for that I'm using the text inside of the abstract image. Basically it's something like extending the text format of the image, as another way of scattering his pieces. The visuals and the text influence each other, depend on each other and again making sense together more than separately. For example, can hide manifesto or part from anarchist paper.
+
+To bring some anarchy to this project I wanted to connect it with some other external source. Therefore you can find not only his papers but also lyrics from album AHES II ASHES DUST II DUST by Tommy Wright III
+
 
 ### Methods
 
@@ -556,6 +561,113 @@ Processing code, textEdit
   <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a1.jpg" width="100%">
   <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a2.jpg" width="100%">
   <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a3.jpg" width="100%">
+
+</details>
+
+<details>
+  <summary>ashes ii ashes</summary>
+
+  Creepin’ While Ya Sleepin’
+  [Pre-Chorus]
+Everybody get face down!
+Now give it to me bitch, now give it to me bitch!
+
+[Verse 1: Mac T Dog]
+Jump into the Chevy, while I'm strapped like jump that M16
+Bumpin' Bobby Womack when I cruise up out the [?] green
+Smokin on that dank, I'm high as hell with my hand up on the trigger
+Thinkin' in my mind, sippin on gin
+It's time to rob a nigga
+Bored as hell, scopin' out these niggas with their fat bank
+Seen two white boys on the street, tryna launch up off these crackers mane
+Stomped them up [?]
+Then I [?] to my battleground
+Chrome to yo dome John, 4 Corners bound clown
+5-0 on my ass, I jumped a gate and went to Tommy crib
+Huffin' and puffin' and scuffin' my nigga while [?] hit the damn ears
+Lay low, ´til my shit cool down on them fuckin' streets
+Right back on this thing and stroll, hit 'em up with that .380
+Niggas in motherfuckin' [?] tryin' to [?] my ass
+Why you tryin' to splurge ya bitch? Lay yo ass down in the grass
+Hoe, if you try to run best believe, I'll pull on the trigger
+Lay yo ass on the ground, bitch, it's time to rob nigga
+
+[Hook]
+It's time to rob nigga! It's time to rob nigga!
+Everybody get face down
+Now give it to me bitch
+It's time to rob nigga! It's time to rob nigga!
+Everybody get face down
+Now give it to me bitch
+[Verse 2: Mac T-Dog]
+Pearl handle .38 in my hand, stangin' a trick
+Smith & Wesson to yo dome, drop it off yo ass bitch
+M.A.C T-D.O.G straight creepin with that pistol though
+I'm finna rob a sissy nigga, and get might down and messy hoe
+Makin' cheese on these motherfuckin' hoes left and right
+Ride in the drop top, 5-0 trick it's on when they hit me mane
+Smokin' on the skunk with my trunk rattlin' from my bump
+Mac T-Dog, murder in the first degree, got a nigga buck jumpin'
+Hoe I'm constantly robbin' and my pockets steady get bigger
+Pass me the fuckin' Glock, bitch it's time to rob nigga
+
+[Hook]
+It's time to rob nigga! It's time to rob nigga!
+Everybody get face down
+Now give it to me bitch
+It's time to rob nigga! It's time to rob nigga!
+Now give it to me bitch
+Everybody get face down
+
+[Verse 3: Mac T-Dog]
+A clip to the steel chrome, nigga don't step wrong
+If you do I just might click and blow a hole in yo fuckin' dome
+Boom boom boom to the dome, lay dead bitch
+Gangsta tight on a fuckin' strike, Mac T finna fool a click
+Tommy Wright on the creep with that fuckin' sawed-off
+Do a fuckin' homicide and we gettin' up caught and ball off
+Pick up Jay we finna do a stang so we gettin' strapped
+.38, nine Glock, .45, the yawk cap
+Ridin' around the M-Town, smokin' niggas with that fat bank
+Seen a trick d-izz-o this shit, just get a fuckin' daily gang
+See a bitch, we mack 'em down, make [?] on a trick
+Pimpin' nigga from 4 Corners, now you know we gots to click
+[?] Home, Macklemore, Malorie, P.V
+Guard ´em down with this fuckin' underground pimpin' frown
+Stayin' down but a real nigga be hangin' with a trigger
+Fuck this shit, let's bail my nigga, bitch it's time to rob nigga
+[Hook]
+It's time to rob nigga! It's time to rob nigga!
+Everybody gets laid down
+Now give it to me bitch
+It's time to rob nigga! It's time to rob nigga!
+Now give it to me bitch
+Everybody gets laid down
+
+[Verse 4: Tommy Wright III]
+I'm high as hell, can't you tell mane, I'm on cloud nine
+Vamp to the crib, grab a rib cause it's robbing time
+Up, oh it's twelve o' clock on the dot, time to scram
+Hit a trick for his shit, a Gucci link or some yams
+Vampin' from the scenery, gots to make the get away clean
+Ain't time for sellin' dope, cause I'm too busy doin' stains
+Always creepin', never sleepin', gimme yo money and don't say nothing
+Blow his brain on the sidewalk cause that nigga thought I was bluffin'
+Made a dash, quick and fast, meanwhile gimme yo cash
+If you don't dash yo ass, on yo ass I'm gon' blast
+Put you in the med with a bullet hole in yo spine
+With my nigga T-Dog grippin' that engine, engine number nine
+Chillin' on the corner with my niggas while we´re planin´ it
+Like Super Man I jump in the sky, watch me turn into Captain Bandit
+Bandit clown on the punk, time to stomp on the hoe
+Leavin' niggas in my trunk unidentified John Does
+[Hook]
+It's time to rob nigga! It's time to rob nigga!
+Everybody gets laid down
+Now give it to me bitch
+It's time to rob nigga! It's time to rob nigga!
+Now give it to me bitch
+Everybody gets laid down
 
 </details>
 
