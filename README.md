@@ -618,6 +618,8 @@ Experiencing the escape.
 
 The short abstract video of him transforming, as the symbol of finally getting peace and disappearing from the archive since he is finally feeling scattered, accompanied by the sounds of siskin because he was such a big fan of this bird.
 
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a1.gif" width="50%">
+
 ### Methods
 
 Displaying the transition of the images before and after to retell the story of Nettlau again, looking at his life after the whole research what I have done, I think of release.
