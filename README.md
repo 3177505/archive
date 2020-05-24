@@ -439,6 +439,10 @@ Various approach to code so I got really different results.
 Processing code
 
 ### Results
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a4.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a5.jpg" width="100%"> |
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a6.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a7.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a8.jpg" width="100%"> |
 
 This is just few separated examples, the final in outcomes.
 
@@ -628,7 +632,7 @@ Displaying the transition of the images before and after to retell the story of 
 
 ### Tools
 
-Premiere pro
+Processing, Premiere pro
 
 ### Results
 
@@ -642,6 +646,7 @@ Premiere pro
 
 </details>
 
+→ First sketch of the video
 → Youtube link with the video which represents the digital scattering and transformation of time and little fragments:
 
 [https://www.youtube.com/watch?v=7iq4sxi5Fic](https://www.youtube.com/watch?v=7iq4sxi5Fic)
@@ -1027,10 +1032,6 @@ I really enjoyed the image manipulation. A purely digital outcome that wasn't in
 → Overview of digital ashes:
 
 [http://tereznovak.online/Nettlau/overview.php](http://tereznovak.online/Nettlau/overview.php)
-
-→ Youtube link with the video which represents the digital scattering and transformation of time and little fragments.
-
-[https://www.youtube.com/watch?v=7iq4sxi5Fic](https://www.youtube.com/watch?v=7iq4sxi5Fic)
 
 <a name="6"></a>
 # Conclusion
