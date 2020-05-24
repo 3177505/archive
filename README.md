@@ -615,6 +615,7 @@ Experiencing the escape.
 ## Transcoding No. 5
 
 ### Videos as a memorial
+| | |
 |:-------------------------:|:-------------------------:|
 |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a8.gif" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a9.gif" width="100%">|
 
