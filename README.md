@@ -554,6 +554,7 @@ Reusing the "trash" from transcoding no.1, already scattered Nettlau carrying th
 Processing code, textEdit
 
 ### Results
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ashes.jpg" width="100%">
 
 <details>
   <summary>YΩ˘≈ˇzÛÌˇ—ÍÇ∑?M6≤,¯{x˜√È‰ëø‘áOGam√wÚ!⁄®;i ;HÒx*π^„—Z.KÈˇ™</summary>
@@ -672,13 +673,20 @@ Everybody gets laid down
 </details>
 
 <details>
-  <summary>Visuals containing paragraphs from Nettlau's papers</summary>
+  <summary>Visuals containing paragraphs from Nettlau's papers and ashes ii ashes</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/1%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash2.png" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash3.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash4.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash5.png" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash6.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash8.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ash9.png" width="100%">|
+</details>
+
+<details>
+  <summary>Designed a typeface just for Max</summary>
+
+  <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/type.jpg" width="100%">
+
 </details>
 
 
