@@ -616,6 +616,9 @@ Experiencing the escape.
 
 ### Videos as a memorial
 
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a8.gif" width="100%">
+<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a9.gif" width="100%">
+
 The short abstract video of him transforming, as the symbol of finally getting peace and disappearing from the archive since he is finally feeling scattered, accompanied by the sounds of siskin because he was such a big fan of this bird.
 
 
@@ -628,9 +631,6 @@ Displaying the transition of the images before and after to retell the story of 
 Premiere pro
 
 ### Results
-  | | |
-  |:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a8.gif" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/a9.gif" width="100%">|
 
 <details>
   <summary>More GIFs:</summary>
