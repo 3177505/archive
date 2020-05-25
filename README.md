@@ -788,6 +788,8 @@ To be able to spread the pieces of Nettlau and scatter him digitally, I have dec
 
 Since the visitor is seing only one picture I also coded one more website which is more like overview of **his digital ashes.**
 
+In the background you can hear singing siskin since Nettlau was so in love with this bird.
+
 ### Aims
 
 The aim is to spread the information to be able to scatter him. Same as the ash, the library is formed by **small fragments**, which doesn't mean so much separately, but together it's one whole - his identity. Reconstruction of a person from small pieces of information or visuals.
