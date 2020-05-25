@@ -1165,7 +1165,7 @@ In general I really enjoyed this project, I chose the object which touches very 
 <a name="6"></a>
 # Conclusion
 
-Soon
+Above all I feel like there is no actual problem to keep symbolically the human remains in IISG, first, it could seem like Max Nettlaus ashes are in the archive by mistake, nevertheless, after my research and experimentation, I understood the value of his presence. The archive's history and Max's history are very closely connected, maybe for IISG would be nice to make this more understandable for the public (also the employees, they actually didn't know). Since it's very heavy archive material, it's very crucial to think properly through the presentation of his afterlife existence, therefore I wanted to make his presence more accessible and somehow more present also in these times.
 
 <!-- <a name="7"></a>
 ## Bibliography
