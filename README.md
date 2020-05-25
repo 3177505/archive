@@ -1,5 +1,5 @@
 [<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Portrait_0.jpg" width="100%">](#)
-# Max Nettlau's ashes: DIGITAL SCATTERING
+# Digital Scattering Max Nettlau's Ashes
 
 ### Table of Contents
 1. [Artefact](#1)
