@@ -1147,7 +1147,7 @@ Various approach to code so I got really different results.
 <a name="4"></a>
 # Reflection
 
-I really enjoyed the image manipulation. A purely digital outcome that wasn't intended but then the concept evolved in such a way that it wouldn't make sense anymore. Rethinking the story narration and story telling.
+In general I really enjoyed this project, I chose the object which touches very interesting topics in my opinion and I also really enjoyed the process of the image manipulation. At the beginning I established some goals, for example to improve my processing skills or coding image skills. I have a feeling that I experimented within digital manipulation, I used different techniques/approaches.
 
 <a name="5"></a>
 # Outcomes
