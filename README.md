@@ -554,9 +554,9 @@ Reusing the "trash" from transcoding no.1, already scattered Nettlau carrying th
 Processing code, textEdit
 
 ### Results
-| | | 
+| | |
 |:-------------------------:|:-------------------------:|
-|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/Ashes.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/DUST.jpg" width="100%">|
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/ashes.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/DUST.jpg" width="100%">|
 
 <details>
   <summary>YΩ˘≈ˇzÛÌˇ—ÍÇ∑?M6≤,¯{x˜√È‰ëø‘áOGam√wÚ!⁄®;i ;HÒx*π^„—Z.KÈˇ™</summary>
