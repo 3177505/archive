@@ -1148,29 +1148,21 @@ The second code randomise the selection and combines two already sorted images.
 
 </details>
 
-Combined codes sketches:
-
-| | |
-|:-------------------------:|:-------------------------:|
-|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy_2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy.jpg" width="100%">|
-
 <details>
-  <summary>Combined codes sketches more sketches:</summary>
+  <summary>Combined codes sketches</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002_copy.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004_copy.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy_2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy.jpg" width="100%"> | |
 
 </details>
 
-<details>
-  <summary>Sort Image By Npx</summary>
+Sort Image By Npx:
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0009.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0010.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/0012.png" width="100%">|
-
-</details>
 
 The connection between those two specific photographs leads us to an abstract story, where we look at his life at different times to more understand what kind of person he was.
 
