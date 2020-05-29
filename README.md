@@ -537,14 +537,15 @@ Scattered, layered and colored:
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau1.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau3.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau4.jpg" width="100%">|
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/1.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/3.jpg" width="100%">|
+
 
 <details>
   <summary>Scattered, layered and colored more sketches:</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/1.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/3.jpg" width="100%">|
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau1.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau3.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau4.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/4.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/007%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/009%202.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/016%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/018%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/019%201.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/023%201.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/j.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/nettlau_2.jpg" width="100%">|
@@ -730,12 +731,17 @@ Adobe package + if using the images from first sorting then also Processing
 
 To make human ash I need: *baking powder, chalk, dry toothpaste, dry banana, fertilizer, sea salt, clay, aluminum foil, magnesium pill, drop of blood, inside of batteries, dry paint, rat poison (poison in general), polish for metal*
 
+How to make human ash visuals:
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/264571487.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/25510068.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/56480265.jpg" width="100%">|
+
 <details>
-  <summary>How to make human ash visuals</summary>
+  <summary>How to make human ash visuals more sketches:</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/264571487.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/25510068.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/56480265.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/79810378.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/100590515.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/113260576.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/118540631.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/123440621.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/157210863.jpg" width="100%">|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/167150939.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/179500981.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/217851195.jpg" width="100%">|
@@ -896,14 +902,12 @@ Then I also used code by Mindshare Studios, see links. The code reads the images
 
 </details>
 
-<details>
-  <summary>Overview a few screenshots:</summary>
+Overview a few screenshots:
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/f1.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/f2.png" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/f3.png" width="100%">|
 
-</details>
 
 → Website where you can download a piece of Max Nettlau:
 
@@ -1144,13 +1148,18 @@ The second code randomise the selection and combines two already sorted images.
 
 </details>
 
+Combined codes sketches:
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy_2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy.jpg" width="100%">|
+
 <details>
-  <summary>Combined codes sketches</summary>
+  <summary>Combined codes sketches more sketches:</summary>
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy_2.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/001_copy.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002_copy.jpg" width="100%">|
-  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004_copy.jpg" width="100%"> | |
+  |<img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002_copy.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/002%202.jpg" width="100%"> | <img src="https://raw.githubusercontent.com/3177505/archive/test/Nettlaus%20ashes%20transcoding/004_copy.jpg" width="100%">|
 
 </details>
 
